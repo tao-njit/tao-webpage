@@ -1,18 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Renewable Energy-Aware Inter-Datacenter Virtual Machine Migration over Elastic
-  Optical Networks
+title: Powering mobile networks with green energy
 subtitle: ''
 summary: ''
 authors:
-- L. Zhang
-- T. Han
+- Tao Han
 - N. Ansari
 tags: []
 categories: []
-date: '2015-11-01'
-lastmod: 2021-08-12T10:58:15-04:00
+date: '2014-02-01'
+lastmod: 2021-08-12T17:45:04-04:00
 featured: false
 draft: false
 
@@ -30,10 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T14:58:15.161859Z'
+publishDate: '2021-08-12T21:45:03.822071Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*2015 IEEE 7th International Conference on Cloud Computing Technology
-  and Science (CloudCom)*'
+publication: '*IEEE Wireless Communications*'
 ---

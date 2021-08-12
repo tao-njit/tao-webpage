@@ -1,18 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Revenue Driven Virtual Machine Management in Green Datacenter Networks Towards
-  Big Data
+title: 'FedVision: Federated Video Analytics With Edge Computing'
 subtitle: ''
 summary: ''
 authors:
-- L. Zhang
+- Y. Deng
 - T. Han
 - N. Ansari
 tags: []
 categories: []
-date: '2016-12-01'
-lastmod: 2021-08-12T10:58:16-04:00
+date: '2020-01-01'
+lastmod: 2021-08-12T17:44:56-04:00
 featured: false
 draft: false
 
@@ -30,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T14:58:16.007916Z'
+publishDate: '2021-08-12T21:44:53.681045Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*IEEE Global Communications Conference (GLOBECOM)*'
+publication: '*IEEE Open Journal of the Computer Society*'
 ---

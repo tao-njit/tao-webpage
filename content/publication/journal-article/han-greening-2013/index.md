@@ -1,18 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Smart Service Rebuilding Scheme Across Cloudlets via Mobile AR Frame Feature
-  Mapping
+title: On Greening Cellular Networks via Multicell Cooperation
 subtitle: ''
 summary: ''
 authors:
-- Haoxin wang
-- Jiang Xie
 - Tao Han
+- Nirwan Ansari
 tags: []
 categories: []
-date: '2018-05-01'
-lastmod: 2021-08-12T10:58:06-04:00
+date: '2013-02-01'
+lastmod: 2021-08-12T17:45:05-04:00
 featured: false
 draft: false
 
@@ -30,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T14:58:06.121060Z'
+publishDate: '2021-08-12T21:45:04.651788Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*IEEE International Conference on Communications (ICC)*'
+publication: '*IEEE Wireless Communications Magazine*'
 ---

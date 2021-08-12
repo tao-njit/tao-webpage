@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Energy-Aware Virtual Machine Management in Inter-Datacenter Networks Over Elastic
-  Optical Infrastructure
+title: 'Smart Grid Enabled Mobile Networks: Jointly Optimizing BS Operation and Power
+  Distribution'
 subtitle: ''
 summary: ''
 authors:
-- L. Zhang
+- X. Huang
 - T. Han
 - N. Ansari
 tags: []
 categories: []
-date: '2018-03-01'
-lastmod: 2021-08-12T17:44:57-04:00
+date: '2017-06-01'
+lastmod: 2021-08-12T17:44:56-04:00
 featured: false
 draft: false
 
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T21:44:56.978144Z'
+publishDate: '2021-08-12T21:44:56.068811Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*IEEE Transactions on Green Communications and Networking*'
+publication: '*IEEE/ACM Transactions on Networking*'
 ---
