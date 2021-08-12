@@ -1,39 +1,36 @@
 ---
+
 # Display name
-title: Nelson Bighetti
+title: Tao Han
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+  - name: New Jersey Institute of Technology
+    url: https://www.njit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,18 +40,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=XTqHKqIAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/tao-njit
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/tao-han-26b5352b/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +64,12 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tao Han is an associate professor in the [Helen and John C. Hartmann Department of Electrical and Computer Engineering](https://ece.njit.edu/) at the [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/) where he earned his Ph.D. in Electrical Engineering. Before joining NJIT, he was an assistant professor in the [Electrical and Computer Engineering Department](https://ece.uncc.edu/) at the [University of North Carolina at Charlotte (UNCC)](https://www.uncc.edu/). At NJIT, he directs the Ubiquitous Networking and Intelligent Computing System (UNICS) Lab focusing on the design and development of new network protocols and machine learning algorithms for next-generation wireless communication networks and edge computing systems that support a variety of applications such as mobile mixed reality, ubiquitous machine vision, smart grid, wave energy, airborne computing, and autonomous vehicles. He wins the prestigious **NSF CAREER Award** 2021 and is an IEEE senior member. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+### Research Interests
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+* Machine learning for next-generation wireless networking and computing systems
+* Mobile mixed/augmented/virtual reality (MR/AR/VR) with edge computing
+* Internet of Things (IoT), smart grid, and Blockchain system
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_2021_07.pdf" "newtab" >}}resumé{{< /staticref >}}.
