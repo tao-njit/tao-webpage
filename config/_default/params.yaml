@@ -59,7 +59,7 @@ office_hours:
 # Site header
 
 main_menu:
-  enable: false
+  enable: true
   align: l
   show_logo: true
   show_language: false
