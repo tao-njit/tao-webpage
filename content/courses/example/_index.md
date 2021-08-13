@@ -9,7 +9,7 @@ type: book
 {{< figure src="featured.jpg" >}}
 
 {{< toc hide_on="xl" >}}
-<!-- 
+
 ## What you will learn
 
 - Fundamental {{<hl>}}Python programming skills{{</hl>}}
@@ -39,4 +39,3 @@ Continuously, at your own pace.
 {{< /spoiler >}}
 
 {{< cta cta_text="Begin the course" cta_link="python" >}}
- -->
