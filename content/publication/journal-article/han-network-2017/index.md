@@ -6,8 +6,8 @@ title: Network Utility Aware Traffic Load Balancing in Backhaul-Constrained Cach
 subtitle: ''
 summary: ''
 authors:
-- T. Han
-- N. Ansari
+- Tao Han
+- Nirwan Ansari
 tags: []
 categories: []
 date: '2017-10-01'
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T21:44:59.509078Z'
+publishDate: '2021-08-13T02:37:11.049857Z'
 publication_types:
 - '2'
 abstract: ''

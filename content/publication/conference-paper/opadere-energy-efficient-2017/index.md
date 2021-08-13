@@ -5,9 +5,9 @@ title: Energy-Efficient RRH Sleep Mode for Virtual Radio Access Networks
 subtitle: ''
 summary: ''
 authors:
-- J. Opadere
-- Q. Liu
-- T. Han
+- Johnson Opadere
+- Qiang Liu
+- Tao Han
 tags: []
 categories: []
 date: '2017-12-01'

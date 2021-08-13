@@ -5,8 +5,8 @@ title: Provisioning Green Energy for Base Stations in Heterogeneous Networks
 subtitle: ''
 summary: ''
 authors:
-- T. Han
-- N. Ansari
+- Tao Han
+- Nirwan Ansari
 tags: []
 categories: []
 date: '2016-07-01'
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T21:45:00.406207Z'
+publishDate: '2021-08-13T02:37:11.919076Z'
 publication_types:
 - '2'
 abstract: ''

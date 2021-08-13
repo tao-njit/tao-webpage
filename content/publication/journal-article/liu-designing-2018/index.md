@@ -5,10 +5,10 @@ title: On Designing Energy-Efficient Heterogeneous Cloud Radio Access Networks
 subtitle: ''
 summary: ''
 authors:
-- Q. Liu
-- T. Han
-- N. Ansari
-- G. Wu
+- Qiang Liu
+- Tao Han
+- Nirwan Ansari
+- Gang Wu
 tags: []
 categories: []
 date: '2018-05-01'
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T21:44:57.842108Z'
+publishDate: '2021-08-13T02:37:09.304108Z'
 publication_types:
 - '2'
 abstract: ''

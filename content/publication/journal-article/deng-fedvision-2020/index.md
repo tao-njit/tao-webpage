@@ -5,9 +5,9 @@ title: 'FedVision: Federated Video Analytics With Edge Computing'
 subtitle: ''
 summary: ''
 authors:
-- Y. Deng
-- T. Han
-- N. Ansari
+- Yang Deng
+- Tao Han
+- Nirwan Ansari
 tags: []
 categories: []
 date: '2020-01-01'
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T21:44:53.681045Z'
+publishDate: '2021-08-13T02:37:06.725564Z'
 publication_types:
 - '2'
 abstract: ''

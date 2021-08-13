@@ -5,9 +5,9 @@ title: On Green-Energy-Powered Cognitive Radio Networks
 subtitle: ''
 summary: ''
 authors:
-- X. Huang
-- T. Han
-- N. Ansari
+- Xueqing Huang
+- Tao Han
+- Nirwan Ansari
 tags: []
 categories: []
 date: '2015-01-01'
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T21:44:58.663884Z'
+publishDate: '2021-08-13T02:37:10.184702Z'
 publication_types:
 - '2'
 abstract: ''

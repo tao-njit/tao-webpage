@@ -6,9 +6,9 @@ title: Energy-Aware Virtual Machine Management in Inter-Datacenter Networks Over
 subtitle: ''
 summary: ''
 authors:
-- L. Zhang
-- T. Han
-- N. Ansari
+- Liang Zhang
+- Tao Han
+- Nirwan Ansari
 tags: []
 categories: []
 date: '2018-03-01'
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T21:44:56.978144Z'
+publishDate: '2021-08-13T02:37:08.454838Z'
 publication_types:
 - '2'
 abstract: ''

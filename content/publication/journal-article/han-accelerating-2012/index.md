@@ -5,10 +5,10 @@ title: On Accelerating Content Delivery in Mobile Networks
 subtitle: ''
 summary: ''
 authors:
-- T. Han
-- N. Ansari
-- M. Wu
-- H. Yu
+- Tao Han
+- Nirwan Ansari
+- Mingquan Wu
+- Heather Yu
 tags: []
 categories: []
 date: '2012-10-01'
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T21:45:08.540172Z'
+publishDate: '2021-08-13T02:37:19.655652Z'
 publication_types:
 - '2'
 abstract: ''

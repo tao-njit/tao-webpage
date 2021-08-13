@@ -6,9 +6,9 @@ title: 'Smart Grid Enabled Mobile Networks: Jointly Optimizing BS Operation and 
 subtitle: ''
 summary: ''
 authors:
-- X. Huang
-- T. Han
-- N. Ansari
+- Xueqing Huang
+- Tao Han
+- Nirwan Ansari
 tags: []
 categories: []
 date: '2017-06-01'
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T21:44:56.068811Z'
+publishDate: '2021-08-13T02:37:07.592570Z'
 publication_types:
 - '2'
 abstract: ''
