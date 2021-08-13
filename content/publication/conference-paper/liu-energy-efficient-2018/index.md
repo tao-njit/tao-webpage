@@ -5,9 +5,9 @@ title: Energy-Efficient On-demand Cloud Radio Access Networks Virtualization
 subtitle: ''
 summary: ''
 authors:
-- Q. Liu
-- T. Han
-- N. Ansari
+- Qiang Liu
+- Tao Han
+- Nirwan Ansari
 tags: []
 categories: []
 date: '2018-12-01'
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-13T02:08:25.750284Z'
+publishDate: '2021-08-13T02:20:07.155100Z'
 publication_types:
 - '1'
 abstract: ''

@@ -6,9 +6,9 @@ title: Joint Radio and Computation Resource Management for Low Latency Mobile Ed
 subtitle: ''
 summary: ''
 authors:
-- Q. Liu
-- T. Han
-- N. Ansari
+- Qiang Liu
+- Tao Han
+- Nirwan Ansari
 tags: []
 categories: []
 date: '2018-12-01'
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-13T02:08:24.928552Z'
+publishDate: '2021-08-13T02:20:06.342052Z'
 publication_types:
 - '1'
 abstract: ''
