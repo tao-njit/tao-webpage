@@ -5,8 +5,8 @@ title: Trading Spectrum for Energy Savings in Green Cognitive Cellular Networks
 subtitle: ''
 summary: ''
 authors:
-- Tao Han
 - Nirwan Ansari
+- Tao Han
 tags: []
 categories: []
 date: '2016-04-01'
@@ -32,5 +32,5 @@ publishDate: '2021-08-13T02:37:27.557835Z'
 publication_types:
 - '8'
 abstract: ''
-publication: '*US Patent Number 9516589, Issued on Dec. 2016.*'
+publication: '*US Patent Number 9516589, Issued on Dec. 2016*'
 ---

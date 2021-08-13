@@ -1,13 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Traffic Load Balancing Framework for Software-Defined Radio Access Networks
-  Powered by Hybrid Energy Sources
+title: Association through Green Energy and Latency Awareness in Wireless Networks
 subtitle: ''
 summary: ''
 authors:
-- Tao Han
 - Nirwan Ansari
+- Tao Han
 tags: []
 categories: []
 date: '2016-04-01'
@@ -31,9 +30,7 @@ image:
 projects: []
 publishDate: '2021-08-13T02:37:27.557835Z'
 publication_types:
-- '2'
+- '8'
 abstract: ''
-publication: '*IEEE/ACM Transactions on Networking*'
-url_pdf: http://ieeexplore.ieee.org/document/7063976/
-doi: 10.1109/TNET.2015.2404576
+publication: '*US Patent Number 9253719, Issued Feb. 2016*'
 ---

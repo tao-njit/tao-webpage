@@ -1,13 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Traffic Load Balancing Framework for Software-Defined Radio Access Networks
-  Powered by Hybrid Energy Sources
+title: Multi-hop peer-to-peer communications
 subtitle: ''
 summary: ''
 authors:
+- Hongkun Li 
+- Qing Li
+- Zhuo Chen
+- Paul L. Russell, Jr.
+- Chonggang Wang
 - Tao Han
-- Nirwan Ansari
 tags: []
 categories: []
 date: '2016-04-01'
@@ -31,9 +34,7 @@ image:
 projects: []
 publishDate: '2021-08-13T02:37:27.557835Z'
 publication_types:
-- '2'
+- '8'
 abstract: ''
-publication: '*IEEE/ACM Transactions on Networking*'
-url_pdf: http://ieeexplore.ieee.org/document/7063976/
-doi: 10.1109/TNET.2015.2404576
+publication: '*U.S. Patent Number 9762362B2, Issued on Sep. 2017*'
 ---
