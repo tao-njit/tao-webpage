@@ -5,11 +5,11 @@ summary: An example of using Wowchemy's Book layout for publishing online course
 date: '2021-08-24'
 type: book
 ---
-<!-- 
+
 {{< figure src="featured.jpg" >}}
 
 {{< toc hide_on="xl" >}}
-
+<!-- 
 ## What you will learn
 
 - Fundamental {{<hl>}}Python programming skills{{</hl>}}
