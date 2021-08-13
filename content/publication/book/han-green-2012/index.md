@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Chapter 17: Green Broadband Access Networks of Elsevier Handbook Green Information and Communication System
+title: 'Chapter 17: Green Broadband Access Networks of Elsevier Handbook Green Information and Communication System'
 subtitle: ''
 summary: ''
 authors:
