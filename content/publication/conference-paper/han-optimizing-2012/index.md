@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Tao Han
-- N. Ansari
+- Nirwan Ansari
 tags: []
 categories: []
 date: '2012-12-01'
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T21:50:31.936940Z'
+publishDate: '2021-08-13T02:08:41.679804Z'
 publication_types:
 - '1'
 abstract: ''

@@ -6,9 +6,9 @@ title: Renewable Energy-Aware Inter-Datacenter Virtual Machine Migration over El
 subtitle: ''
 summary: ''
 authors:
-- L. Zhang
-- T. Han
-- N. Ansari
+- Liang Zhang
+- Tao Han
+- Nirwan Ansari
 tags: []
 categories: []
 date: '2015-11-01'
@@ -30,10 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T21:50:23.970998Z'
+publishDate: '2021-08-13T02:08:34.102420Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*2015 IEEE 7th International Conference on Cloud Computing Technology
-  and Science (CloudCom)*'
+publication: '*IEEE International Conference on Cloud Computing Technology and Science
+  (CloudCom)*'
 ---

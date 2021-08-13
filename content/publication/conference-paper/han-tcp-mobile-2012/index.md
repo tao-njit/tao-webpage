@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Tao Han
-- N. Ansari
+- Nirwan Ansari
 - Mingquan Wu
-- H. Yu
+- Heather Yu
 tags: []
 categories: []
 date: '2012-06-01'
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T21:50:32.927066Z'
+publishDate: '2021-08-13T02:08:42.518977Z'
 publication_types:
 - '1'
 abstract: ''

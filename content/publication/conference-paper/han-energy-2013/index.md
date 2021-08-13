@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Tao Han
 - Xueqing Huang
-- N. Ansari
+- Nirwan Ansari
 tags: []
 categories: []
 date: '2013-06-01'
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T21:50:33.774780Z'
+publishDate: '2021-08-13T02:08:43.358338Z'
 publication_types:
 - '1'
 abstract: ''

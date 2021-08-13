@@ -5,9 +5,9 @@ title: Intelligent battery management for cellular networks with hybrid energy s
 subtitle: ''
 summary: ''
 authors:
-- X. Liu
-- T. Han
-- N. Ansari
+- Xilong Liu
+- Tao Han
+- Nirwan Ansari
 tags: []
 categories: []
 date: '2016-04-01'
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T21:50:23.111571Z'
+publishDate: '2021-08-13T02:08:33.277320Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*2016 IEEE Wireless Communications and Networking Conference*'
+publication: '*IEEE Wireless Communications and Networking Conference (WCNC)*'
 ---

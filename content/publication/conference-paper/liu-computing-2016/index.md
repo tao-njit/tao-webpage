@@ -5,9 +5,9 @@ title: Computing Resource Aware Energy Saving Scheme for Cloud Radio Access Netw
 subtitle: ''
 summary: ''
 authors:
-- Q. Liu
-- T. Han
-- G. Wu
+- Qiang Liu
+- Tao Han
+- Gang Wu
 tags: []
 categories: []
 date: '2016-10-01'
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T21:50:21.859825Z'
+publishDate: '2021-08-13T02:08:32.455409Z'
 publication_types:
 - '1'
 abstract: ''

@@ -6,9 +6,9 @@ title: Revenue Driven Virtual Machine Management in Green Datacenter Networks To
 subtitle: ''
 summary: ''
 authors:
-- L. Zhang
-- T. Han
-- N. Ansari
+- Liang Zhang
+- Tao Han
+- Nirwan Ansari
 tags: []
 categories: []
 date: '2016-12-01'
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T21:50:24.831215Z'
+publishDate: '2021-08-13T02:08:34.926787Z'
 publication_types:
 - '1'
 abstract: ''
