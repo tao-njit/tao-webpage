@@ -62,6 +62,10 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+user_groups:
+- Principal Investigator
+
 ---
 
 Tao Han is an associate professor in the [Helen and John C. Hartmann Department of Electrical and Computer Engineering](https://ece.njit.edu/) at the [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/) where he earned his Ph.D. in Electrical Engineering. Before joining NJIT, he was an assistant professor in the [Electrical and Computer Engineering Department](https://ece.uncc.edu/) at the [University of North Carolina at Charlotte (UNCC)](https://www.uncc.edu/). At NJIT, he directs the Ubiquitous Networking and Intelligent Computing System (UNICS) Lab focusing on the design and development of new network protocols and machine learning algorithms for next-generation wireless networks and edge computing systems. He wins the prestigious **NSF CAREER Award** 2021 and is an IEEE senior member. 
