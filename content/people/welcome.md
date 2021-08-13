@@ -10,12 +10,12 @@ title:
   Ubiquitous Networking and Intelligent Computing System (UNICS)
   
 #hero_media: group.jpg
-design:
+#design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+#  columns: '1'
   # Add custom styles
-  css_style:
-  css_class:
+#  css_style:
+#  css_class:
 ---
 
 <br>
