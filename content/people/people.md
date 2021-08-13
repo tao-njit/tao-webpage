@@ -11,6 +11,8 @@ weight: 68
 
 title: Ubiquitous Networking and Intelligent Computing System
 subtitle: (UNICS)
+image:
+  focal_point: "top"
 
 content:
   # Choose which groups/teams of users to display.
