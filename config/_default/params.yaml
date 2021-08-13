@@ -6,7 +6,7 @@
 # Appearance
 
 theme: minimal
-day_night: true
+day_night: false
 font: ''
 font_size: L
 
@@ -76,8 +76,7 @@ address_format: en-us
 # Site features
 
 highlight: true
-highlight_languages:
-  - r
+
 math: false
 diagram: false
 privacy_pack: false
@@ -113,7 +112,7 @@ avatar:
   shape: square
 publications:
   date_format: January 2006
-  citation_style: apa
+  citation_style: ieee
 projects:
   post_view: 2
   publication_view: 2
