@@ -36,5 +36,6 @@ publishDate: '2021-08-13T02:37:27.557835Z'
 publication_types:
 - '8'
 abstract: ''
-publication: '*U.S. Patent Number 10136425B2, Issued on Nov. 2018*'
+publication: '*U.S. Patent Number 10136425B2*'
 ---
+#, Issued on Nov. 2018

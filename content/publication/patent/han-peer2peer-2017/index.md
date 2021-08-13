@@ -36,5 +36,6 @@ publishDate: '2021-08-13T02:37:27.557835Z'
 publication_types:
 - '8'
 abstract: ''
-publication: '*U.S. Patent Number 9762362B2, Issued on Sep. 2017*'
+publication: '*U.S. Patent Number 9762362B2*'
 ---
+#, Issued on Sep. 2017*

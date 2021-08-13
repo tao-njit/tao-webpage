@@ -32,5 +32,7 @@ publishDate: '2021-08-13T02:37:27.557835Z'
 publication_types:
 - '8'
 abstract: ''
-publication: '*US Patent Number 9516589, Issued on Dec. 2016*'
+publication: '*US Patent Number 9516589*'
+
 ---
+#, Issued on Dec. 2016
