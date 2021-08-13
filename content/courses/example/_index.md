@@ -1,11 +1,11 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
+title: ECE 601 Linear System
+#linkTitle: Data Science
 summary: An example of using Wowchemy's Book layout for publishing online courses.
-date: '2021-01-24'
+date: '2021-08-24'
 type: book
 ---
-
+<!-- 
 {{< figure src="featured.jpg" >}}
 
 {{< toc hide_on="xl" >}}
@@ -39,3 +39,4 @@ Continuously, at your own pace.
 {{< /spoiler >}}
 
 {{< cta cta_text="Begin the course" cta_link="python" >}}
+ -->
