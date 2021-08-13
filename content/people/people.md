@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Ubiquitous Networking and Intelligent Computing System
-subtitle: (UNICS)
+title: Ubiquitous Networking and Intelligent Computing System (UNICS)
+subtitle: 
 
 
 content:
