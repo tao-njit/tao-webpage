@@ -9,8 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
+{{< figure src="featured.png" >}}
+
+{{< toc hide_on="xl" >}}
+
 title: Ubiquitous Networking and Intelligent Computing System
-subtitle:
+subtitle: (UNICS)
 
 content:
   # Choose which groups/teams of users to display.
