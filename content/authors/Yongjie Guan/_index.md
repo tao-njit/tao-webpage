@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Pedro Regalado
+title: Yongjie Guan
 
 # Username (this should match the folder name)
 authors:
-- pedro
+- Yongjie Guan
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed Mixed Reality and edge computing systems.
+bio: My research interests include mixed reality and wirelss edge computing systems.
 
 interests:
 - Mixed Reality System
@@ -69,5 +69,5 @@ user_groups:
 
 ---
 
-Mr. Regalado received his B.S. and M.S in Electrical Engineering from the University of North Carolina at Charlotte in 2018 and 2019, respectively. He officially started his doctoral study in Dr. Tao Han’s group at UNC-Charlotte in Spring 2020. His research topics include the Internet of Things, wearable technology, and intelligent sensors with a focus on mixed reality.
+Mr. Guan received his M.S. degree in Computer Engineering from the New Jersey Institute of Technology (NJIT) and B.S. in Communication Engineering from The University of Electronic Science and Technology of China (UESTC). He started his doctoral study in Dr. Tao Han’s group at UNC-Charlotte in 2018 Summer. His research topics are mobile mixed/augmented/virtual reality (MR/AR/VR), immersive computing, and networked unmanned aerial vehicle (UAV).
 

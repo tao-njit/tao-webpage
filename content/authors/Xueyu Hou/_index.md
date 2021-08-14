@@ -4,7 +4,7 @@ title: Xueyu Hou
 
 # Username (this should match the folder name)
 authors:
-- xueyu
+- Xueyu Hou
 
 # Is this the primary user of the site?
 superuser: false
