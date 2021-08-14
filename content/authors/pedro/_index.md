@@ -4,7 +4,7 @@ title: Pedro Regalado
 
 # Username (this should match the folder name)
 authors:
-- Pedro Regalado
+- pedro
 
 # Is this the primary user of the site?
 superuser: false

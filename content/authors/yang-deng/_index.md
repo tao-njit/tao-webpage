@@ -4,7 +4,7 @@ title: Yang Deng
 
 # Username (this should match the folder name)
 authors:
-- Yang Deng
+- yang-deng
 
 # Is this the primary user of the site?
 superuser: false
