@@ -69,7 +69,7 @@ user_groups:
 
 ---
 
-Ms. Hou received her M.Eng. degree in Electrical Engineering from Xi'an Jiaotong University, China. She started her doctoral study in Dr. Tao Han's group in 2018 Fall. Her research topics are machine learning for wireless networks, distributed machine learning, and trustworthy edge computing.
+Ms. Hou received both M.Eng. and B.S. degrees in Electrical Engineering from Xi'an Jiaotong University, China. She started her doctoral study in Dr. Tao Han's group in 2018 Fall. Her research topics are machine learning for wireless networks, distributed machine learning, and trustworthy edge computing.
 
 ### Research Interests
 * Distributed Machine Learning System
