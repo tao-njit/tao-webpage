@@ -20,9 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed Mixed Reality and edge computing systems.
 
-interests:
+<!-- interests:
 - Mixed Reality System
-- Wireless Edge Computing System
+- Wireless Edge Computing System -->
 
 <!-- education:
   courses:
@@ -69,5 +69,9 @@ user_groups:
 
 ---
 
-Mr. Regalado received his B.S. and M.S in Electrical Engineering from the University of North Carolina at Charlotte in 2018 and 2019, respectively. He officially started his doctoral study in Dr. Tao Han’s group at UNC-Charlotte in Spring 2020. His research topics include the Internet of Things, wearable technology, and intelligent sensors with a focus on mixed reality.
+Mr. Regalado received his B.S. and M.S in Electrical Engineering from the University of North Carolina at Charlotte in 2018 and 2019, respectively. He officially started his doctoral study in Dr. Tao Han’s group in Spring 2020. His research focuses on the mixed reality system and wearable technology.
 
+### Research Interests
+
+* Mixed Reality and Edge Computing System
+* Wearable Technology and Internet of Things

@@ -20,9 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed wireless edge computing and blockchain systems.
 
-interests:
+<!-- interests:
 - Blockchain System 
-- Wireless Edge Computing System
+- Wireless Edge Computing System -->
 
 <!-- education:
   courses:
@@ -69,5 +69,11 @@ user_groups:
 
 ---
 
-Mr. Deng received his M.Eng in Electrical Engineering from Harbin Institute of Technology (HIT) in 2016. He started his doctoral study under Dr. Tao Han’s group at UNC-Charlotte in 2016 Fall. His research topics are software-defined networks, federated learning, and smart grid.
+Mr. Deng received his M.Eng in Electrical Engineering from Harbin Institute of Technology (HIT) in 2016. He started his doctoral study under Dr. Tao Han’s group in 2016 Fall. His research topics are software-defined networks, federated learning, and smart grid.
+
+### Research Interests
+
+* Blockchain and Software Defined Networking System 
+* Federated Learning System
+* Smart Grid and Cyberphysical System
 

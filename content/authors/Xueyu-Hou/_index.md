@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed machine learning and networking systems.
 
-interests:
+<!-- interests:
 - Distributed machine learning 
 - Wireless Networking System
-
+ -->
 <!-- education:
   courses:
   - course: PhD in Artificial Intelligence
@@ -69,4 +69,10 @@ user_groups:
 
 ---
 
-Ms. Hou received her M.Eng. degree in Electrical Engineering from Xi'an Jiaotong University, China. She started her doctoral study in Dr. Tao Han's group at UNC-Charlotte in 2018 Fall. Her research topics are machine learning for wireless networks, distributed machine learning, and trustworthy edge computing.
+Ms. Hou received her M.Eng. degree in Electrical Engineering from Xi'an Jiaotong University, China. She started her doctoral study in Dr. Tao Han's group in 2018 Fall. Her research topics are machine learning for wireless networks, distributed machine learning, and trustworthy edge computing.
+
+### Research Interests
+* Distributed Machine Learning System
+* Deep Reinforcement Learning
+* Wireless Edge Computing System
+
