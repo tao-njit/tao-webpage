@@ -20,9 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include blockchain and networking systems.
 
-interests:
+<!-- interests:
 - Wireless Networking System
-- Blockchain System 
+- Blockchain System  -->
 
 <!-- education:
   courses:
@@ -70,3 +70,8 @@ user_groups:
 ---
 
 Mr. Moges received his B.S. degree in Computer and Electrical Engineering at UNC-Charlotte. He worked with Dr. Han on cybersecurity issues in the smart grid when he was an undergraduate student. He was an early entry Ph.D. student under Dr. Han’s supervision and officially started his doctoral study in Fall 2019. His research area is blockchain and software-defined networking for the Internet of Things.
+
+### Research Interests
+
+* Wireless Networking System
+* Blockchain and Software Defined Networking system
