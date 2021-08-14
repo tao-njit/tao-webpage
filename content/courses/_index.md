@@ -9,6 +9,6 @@ header:
   image: ""
 ---
 
-I teach the following courses:
+I teach the following courses at NJIT:
 
 **ECE 601 Linear System (2021 Fall)**

@@ -43,9 +43,9 @@ social:
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=XTqHKqIAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/tao-njit
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/tao-njit
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/tao-han-26b5352b/
