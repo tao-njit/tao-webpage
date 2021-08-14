@@ -69,4 +69,4 @@ user_groups:
 
 ---
 
-Ms. Hou received her M.Eng. degree in Electrical Engineering from Xi’an Jiaotong University, China. She started her doctoral study in Dr. Tao Han’s group at UNC-Charlotte in 2018 Fall. Her research topics are machine learning for wireless networks, distributed machine learning, and trustworthy edge computing.
+Ms. Hou received her M.Eng. degree in Electrical Engineering from Xi'an Jiaotong University, China. She started her doctoral study in Dr. Tao Han's group at UNC-Charlotte in 2018 Fall. Her research topics are machine learning for wireless networks, distributed machine learning, and trustworthy edge computing.
