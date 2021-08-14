@@ -90,7 +90,7 @@ edit_page:
     book: false
 show_related:
   book: true
-  page: false
+  page: true
   project: true
   publication: true
 reading_time: true
