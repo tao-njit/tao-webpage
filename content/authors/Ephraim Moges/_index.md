@@ -4,7 +4,7 @@ title: Ephraim Moges
 
 # Username (this should match the folder name)
 authors:
-- Ephraim
+- Ephraim Moges
 
 # Is this the primary user of the site?
 superuser: false
