@@ -1,18 +1,17 @@
 ---
 title: UbiVision
 summary: Design and develop ubiquitous machine vision with adaptive wireless networking and edge computing.
-<!-- tags:
-- Deep Learning -->
+
 date: "2018-10-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+#external_link: ""
 
 image:
   caption: Overview of UbiVision System
   focal_point: Center
 
--- links:
+#-- links:
 # - icon: twitter
   # icon_pack: fab
   # name: Follow
