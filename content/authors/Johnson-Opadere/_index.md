@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Qiang Liu
+title: Johnson Opadere
 
 # Username (this should match the folder name)
 authors:
-- Qiang Liu
+- Johnson Opadere
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: 
 
 # Organizations/Affiliations
 organizations:
-- name: University of Nebraska–Lincoln
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -40,7 +40,7 @@ bio: My research interests include distributed wireless edge computing and block
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
--- social:
+<!-- -- social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=qcAJFdMAAAAJ&hl=en
@@ -49,7 +49,7 @@ bio: My research interests include distributed wireless edge computing and block
   link: https://www.linkedin.com/in/qiang-liu-6b4424129/
 - icon: github
   icon_pack: fab
-  link: https://github.com/liuqiang12040913/
+  link: https://github.com/liuqiang12040913/ -->
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,10 +65,10 @@ user_groups:
   - Alumni
 
 ---
-Dr. Liu received Ph.D. in Electrical Engineering under Dr. Han's supervision from the University of North Carolina at Charlotte in Dec. 2021. His research topics are network slicing, wireless edge computing, deep reinforcement learning, and augmented reality. 
+Dr. Opadere received Ph.D. in Electrical Engineering under Dr. Han's supervision from the University of North Carolina at Charlotte in May. 2019. His research topics are energy-efficient wireless communications and edge computing systems. 
 
 ### Jobs
 
-* Network System Researcher at Nokia Bell Labs, Jan. 2021 - Aug. 2021
-* Tenure-Track Assistant Professor at University of Nebraska–Lincoln, Aug. 2021 - Present
+<!-- * Network System Researcher at Nokia Bell Labs, Jan. 2021 - Aug. 2021
+* Tenure-Track Assistant Professor at University of Nebraska–Lincoln, Aug. 2021 - Present -->
 
