@@ -37,6 +37,16 @@ image:
 
 This project aims to realize an ambitious goal: ubiquitous machine vision (UbiVision) whose ultimate objective is to provide a platform that enables people from all over the world to share their smart cameras, which can be Uber, Airbnb, or Mobike in the context of smart cameras. The UbiVision framework consists of three main research tasks addressing challenges of dynamically managing highly coupled resources and functions across multiple technology domains: 1) camera functions such as image preprocessing and embedded machine vision; 2) network resources in the radio access network; 3) computation resources and machine vision on the edge servers. This project is interdisciplinary and integrates techniques and perspectives from wireless networking, computer vision, and edge computing in designing and optimizing UbiVision.
 
+#### Principal Investigators
+- Tao Han, Ph.D.
+- Chen Chen, Ph.D. (UCF)
+
+#### Grduate Students
+- Yang Deng
+- Ephraim Moges
+- Taojiannan Yang
+- Sijie Zhu
+
 <!-- In this framework, smart cameras, radio access networks, and edge servers are recognized as infrastructure that can support multiple machine vision services through adaptive end-to-end multi-domain resource orchestration. The PIs envision that a machine vision service provider (MVSP) will own and manage a virtual network consisting of a radio access network and edge servers and have the access to ubiquitous cameras via camera sharing agreements with camera owners. Under this scenario, MVSPs are challenged to dynamically manage highly coupled resources and functions across multiple technology domains: 1) camera functions such as image preprocessing and embedded machine vision; 2) network resources in the radio access network; 3) computation resources and machine vision on the edge servers. To solve the problem, the PIs propose an interdisciplinary research project which integrates techniques and perspectives from wireless networking, computer vision, and edge computing in designing and optimizing UbiVision. -->
 
 
