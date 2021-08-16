@@ -65,10 +65,10 @@ user_groups:
   - Alumni
 
 ---
-Dr. Liu received Ph.D. in Electrical Engineering under Dr. Han's supervision from the University of North Carolina at Charlotte. His research topics are network slicing, wireless edge computing, deep reinforcement learning, and augmented reality. 
+Dr. Liu received Ph.D. in Electrical Engineering under Dr. Han's supervision from the University of North Carolina at Charlotte in Dec. 2020. His research topics are network slicing, wireless edge computing, deep reinforcement learning, and augmented reality. 
 
 ### Jobs
 
-* Inital Placement: Network System Researcher at Nokia Bell Labs, Jan. 2021 - Aug. 2021
-* Now: Tenure-Track Assistant Professor at University of Nebraska–Lincoln, Aug. 2021 - Present
+* Network System Researcher at Nokia Bell Labs, Jan. 2021 - Aug. 2021
+* Tenure-Track Assistant Professor at University of Nebraska–Lincoln, Aug. 2021 - Present
 
