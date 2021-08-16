@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Chen Chen
+title: Yu Wang
 
 # Username (this should match the folder name)
 authors:
-- Chen Chen
+- Yu Wang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Assistant Professor at UCF
+role: Professor at Temple
 
 # Organizations/Affiliations
 organizations:
-- name: University of Central Florida
+- name: Temple University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -65,12 +65,12 @@ user_groups:
   - Collaborators
 
 ---
-Dr. Chen is an Assistant Professot in Center for Research in Computer Vision (CRCV) of the Department of Computer Science at the University of Central Florida. 
+Dr. Yu Wang is currently a Professor in the Department of Computer and Information Sciences at Temple University. He holds a Ph.D. from Illinois Institute of Technology, an MEng and a BEng from Tsinghua University, all in Computer Science. His research interest includes wireless networks, smart sensing, and mobile computing. He has published over 200 papers in peer reviewed journals and conferences. He has served as general chair, program chair, program committee member, etc. for many international conferences (such as IEEE IPCCC, ACM MobiHoc, IEEE INFOCOM, IEEE GLOBECOM, IEEE ICC), and served as Editorial Board Member for several international journals, including IEEE Transactions on Parallel and Distributed Systems. He is a recipient of Ralph E. Powe Junior Faculty Enhancement Awards from Oak Ridge Associated Universities (2006), Outstanding Faculty Research Award from College of Computing and Informatics at the University of North Carolina at Charlotte (2008), Fellow of IEEE (2018), and ACM Distinguished Member (2020).
 
-### Research Interests
+<!-- ### Research Interests
 
 * Computer Vision
 * Machine Learning
 * Image and Video Processing
-
+ -->
 

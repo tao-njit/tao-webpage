@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Chen Chen
+title: Pu Wang
 
 # Username (this should match the folder name)
 authors:
-- Chen Chen
+- Pu Wang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Assistant Professor at UCF
+role: Associate Professor at UNCC
 
 # Organizations/Affiliations
 organizations:
-- name: University of Central Florida
+- name: University of North Carolina at Charlotte
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -65,12 +65,12 @@ user_groups:
   - Collaborators
 
 ---
-Dr. Chen is an Assistant Professot in Center for Research in Computer Vision (CRCV) of the Department of Computer Science at the University of Central Florida. 
+Dr Wang's current research interests focus on modeling, analysis, and stochastic optimization of networked systems, with applications in Software Defined Networking, Cyber-Physical Systems, Internet of Things, Wireless Sensor Networks, Cognitive Radio Networks, and Electromagnetic Nanonetworks.
 
-### Research Interests
+<!-- ### Research Interests
 
 * Computer Vision
 * Machine Learning
 * Image and Video Processing
-
+ -->
 
