@@ -4,7 +4,7 @@ summary: Design and develop ubiquitous machine vision with adaptive wireless net
 
 date: "2018-10-01T00:00:00Z"
 
-authors
+authors:
 - admin
 - Chen Chen
 
