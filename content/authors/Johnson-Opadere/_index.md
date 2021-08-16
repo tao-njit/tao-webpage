@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Alumni
+  - Alumni
 
 ---
 Dr. Opadere received Ph.D. in Electrical Engineering under Dr. Han's supervision from the University of North Carolina at Charlotte in May. 2019. His research topics are energy-efficient wireless communications and edge computing systems. 
