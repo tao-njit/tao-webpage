@@ -1,6 +1,6 @@
 ---
-title: Ubiquitous Machine Vision with Adaptive Wireless Networking and Edge Computing
-summary: .
+title: UbiVision
+summary: Design and develop ubiquitous machine vision with adaptive wireless networking and edge computing.
 <!-- tags:
 - Deep Learning -->
 date: "2016-04-27T00:00:00Z"
