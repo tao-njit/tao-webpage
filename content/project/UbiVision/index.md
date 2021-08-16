@@ -4,6 +4,10 @@ summary: Design and develop ubiquitous machine vision with adaptive wireless net
 
 date: "2018-10-01T00:00:00Z"
 
+authors
+- admin
+- Chen Chen
+
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
 
