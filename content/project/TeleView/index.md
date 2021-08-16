@@ -1,26 +1,30 @@
 ---
 title: TeleView
-summary: Design and develop ubiquitous machine vision with adaptive wireless networking and edge computing.
-<!-- tags:
-- Deep Learning -->
-date: "2016-04-27T00:00:00Z"
+summary: This project explores the commercial potential of a low-cost holographic telepresence system. .
+
+date: "2021-05-01T00:00:00Z"
+
+authors:
+- admin
+
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+#external_link: ""
 
-image:
-  caption: Overview of UbiVision System
-  focal_point: Smart
+# -- image:
+  # caption: Overview of UbiVision System
+  # focal_point: Center 
+  # preview_only: true
 
--- links:
+#-- links:
 # - icon: twitter
   # icon_pack: fab
   # name: Follow
   # url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: "" 
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: "" 
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -30,7 +34,31 @@ url_video: ""
 <!-- slides: example -->
 ---
 
-This project aims to realize an ambitious goal: ubiquitous machine vision (UbiVision) whose ultimate objective is to provide a platform that enables people from all over the world to share their smart cameras, which can be Uber, Airbnb, or Mobike in the context of smart cameras. For example, a person in New York City can “see” what is happening in Los Angeles via a wearable camera shared by another person located in Los Angeles. However, sharing the scenes captured by cameras directly will incur serious privacy issues. Moreover, the raw visual data may result in excessive traffic loads that congest the network and downgrade the system performance. To preserve privacy and reduce traffic loads, UbiVision performs visual data analysis on smart cameras and edge servers, which allows its customers to only share information extracted from camera scenes, e.g., how many people are queuing outside an Apple store for a new iPhone, or selected objects in the scene, e.g., a vagrant husky for the purpose of the lost and found. This project studies enabling technologies for realizing UbiVision. The UbiVision framework consists of three main research tasks. In this framework, smart cameras, radio access networks, and edge servers are recognized as infrastructure that can support multiple machine vision services through adaptive end-to-end multi-domain resource orchestration. The PIs envision that a machine vision service provider (MVSP) will own and manage a virtual network consisting of a radio access network and edge servers and have the access to ubiquitous cameras via camera sharing agreements with camera owners. Under this scenario, MVSPs are challenged to dynamically manage highly coupled resources and functions across multiple technology domains: 1) camera functions such as image preprocessing and embedded machine vision; 2) network resources in the radio access network; 3) computation resources and machine vision on the edge servers. To solve the problem, the PIs propose an interdisciplinary research project which integrates techniques and perspectives from wireless networking, computer vision, and edge computing in designing and optimizing UbiVision.
+### NSF: I-Corps: Low-Cost Holographic TelePresence System
+
+
+{{< figure src="teleview.png" caption="Overview of TeleView System" numbered="false" >}}
+
+#### Abstract
+This I-Corps project explores the commercial potential of a low-cost holographic telepresence system. The holographic telepresence system involves core technologies from advanced wireless communications, edge computing systems, and computer vision. 
+
+#### Principal Investigators:
+- Tao Han, Ph.D. (Lead PI)
+
+#### Grduate Students:
+- Pedro Regalado
+
+
+#### Project Outcomes:
+- Publications:
+	- 
+	
+
+- Opensource Software:
+	- 
+
+
+<!-- In this framework, smart cameras, radio access networks, and edge servers are recognized as infrastructure that can support multiple machine vision services through adaptive end-to-end multi-domain resource orchestration. The PIs envision that a machine vision service provider (MVSP) will own and manage a virtual network consisting of a radio access network and edge servers and have the access to ubiquitous cameras via camera sharing agreements with camera owners. Under this scenario, MVSPs are challenged to dynamically manage highly coupled resources and functions across multiple technology domains: 1) camera functions such as image preprocessing and embedded machine vision; 2) network resources in the radio access network; 3) computation resources and machine vision on the edge servers. To solve the problem, the PIs propose an interdisciplinary research project which integrates techniques and perspectives from wireless networking, computer vision, and edge computing in designing and optimizing UbiVision. -->
 
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.

@@ -1,6 +1,6 @@
 ---
 title: UbiVision
-summary: Design and develop ubiquitous machine vision with adaptive wireless networking and edge computing.
+summary: This designs and develops ubiquitous machine vision with adaptive wireless networking and edge computing.
 
 date: "2018-10-01T00:00:00Z"
 

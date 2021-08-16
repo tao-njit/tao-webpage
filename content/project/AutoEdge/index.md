@@ -1,6 +1,6 @@
 ---
 title: AutoEdge
-summary: Design and develop robust airborne wireless edge computing networks and systems.
+summary: This CAREER project designs and develops deep reinforcement learning algorithms for end-to-end network automation in wireless edge computing systems.
 
 date: "2021-05-01T00:00:00Z"
 

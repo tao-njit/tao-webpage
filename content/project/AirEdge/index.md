@@ -1,6 +1,6 @@
 ---
 title: AirEdge
-summary: Design and develop robust airborne wireless edge computing networks and systems.
+summary: This project designs and develops robust airborne wireless edge computing networks and systems.
 
 date: "2020-10-01T00:00:00Z"
 
