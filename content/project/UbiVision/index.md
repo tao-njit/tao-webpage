@@ -11,9 +11,9 @@ authors:
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
 
-image:
+<!-- image:
   caption: Overview of UbiVision System
-  focal_point: Center
+  focal_point: Center -->
 
 #-- links:
 # - icon: twitter
