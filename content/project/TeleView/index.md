@@ -42,8 +42,8 @@ authors:
 #### Abstract
 This I-Corps project explores the commercial potential of a low-cost holographic telepresence system. The holographic telepresence system involves core technologies from advanced wireless communications, edge computing systems, and computer vision. 
 
-#### Principal Investigators:
-- Tao Han, Ph.D. (Lead PI)
+#### Principal Investigator:
+- Tao Han, Ph.D. 
 
 #### Grduate Students:
 - Pedro Regalado

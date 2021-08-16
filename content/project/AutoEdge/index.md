@@ -41,8 +41,8 @@ authors:
 #### Abstract
 This CAREER project aims to develop deep reinforcement learning (DRL) methods and systems that automate end-to-end resource orchestration in wireless edge computing networks. Toward this end, two fundamental research problems are investigated: 1) how to design domain-specific DRL that can effectively solve end-to-end orchestration problems in large-scale wireless edge computing networks and 2) how to efficiently deploy DRL-based orchestration solutions in large-scale networking systems.
 
-#### Principal Investigators:
-- Tao Han, Ph.D. (Lead PI)
+#### Principal Investigator:
+- Tao Han, Ph.D. 
 
 #### Grduate Students:
 - Xueyu Hou
