@@ -2,7 +2,7 @@
 title: AirEdge
 summary: Design and develop robust airborne wireless edge computing networks and systems.
 
-date: "2018-10-01T00:00:00Z"
+date: "2020-10-01T00:00:00Z"
 
 authors:
 - admin
