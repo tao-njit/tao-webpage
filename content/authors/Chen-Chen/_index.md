@@ -64,6 +64,9 @@ email: ""
 user_groups:
   - Collaborators
 
+projects:
+- UbiVision
+
 ---
 Dr. Chen is an Assistant Professot in Center for Research in Computer Vision (CRCV) of the Department of Computer Science at the University of Central Florida. 
 
