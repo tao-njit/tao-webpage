@@ -1,26 +1,31 @@
 ---
-title: AirEdge
+title: UbiVision
 summary: Design and develop ubiquitous machine vision with adaptive wireless networking and edge computing.
-<!-- tags:
-- Deep Learning -->
-date: "2016-04-27T00:00:00Z"
+
+date: "2018-10-01T00:00:00Z"
+
+authors:
+- admin
+- Pu Wang
+- Yu Wang
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+#external_link: ""
 
-image:
-  caption: Overview of UbiVision System
-  focal_point: Smart
+# -- image:
+  # caption: Overview of UbiVision System
+  # focal_point: Center 
+  # preview_only: true
 
--- links:
+#-- links:
 # - icon: twitter
   # icon_pack: fab
   # name: Follow
   # url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: "" 
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: "" 
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -30,7 +35,33 @@ url_video: ""
 <!-- slides: example -->
 ---
 
-This project aims to realize an ambitious goal: ubiquitous machine vision (UbiVision) whose ultimate objective is to provide a platform that enables people from all over the world to share their smart cameras, which can be Uber, Airbnb, or Mobike in the context of smart cameras. For example, a person in New York City can “see” what is happening in Los Angeles via a wearable camera shared by another person located in Los Angeles. However, sharing the scenes captured by cameras directly will incur serious privacy issues. Moreover, the raw visual data may result in excessive traffic loads that congest the network and downgrade the system performance. To preserve privacy and reduce traffic loads, UbiVision performs visual data analysis on smart cameras and edge servers, which allows its customers to only share information extracted from camera scenes, e.g., how many people are queuing outside an Apple store for a new iPhone, or selected objects in the scene, e.g., a vagrant husky for the purpose of the lost and found. This project studies enabling technologies for realizing UbiVision. The UbiVision framework consists of three main research tasks. In this framework, smart cameras, radio access networks, and edge servers are recognized as infrastructure that can support multiple machine vision services through adaptive end-to-end multi-domain resource orchestration. The PIs envision that a machine vision service provider (MVSP) will own and manage a virtual network consisting of a radio access network and edge servers and have the access to ubiquitous cameras via camera sharing agreements with camera owners. Under this scenario, MVSPs are challenged to dynamically manage highly coupled resources and functions across multiple technology domains: 1) camera functions such as image preprocessing and embedded machine vision; 2) network resources in the radio access network; 3) computation resources and machine vision on the edge servers. To solve the problem, the PIs propose an interdisciplinary research project which integrates techniques and perspectives from wireless networking, computer vision, and edge computing in designing and optimizing UbiVision.
+### NSF: CNS Core: UbiVision: Ubiquitous Machine Vision with Adaptive Wireless Networking and Edge Computing
+
+{{< figure src="airedge.png" caption="Overview of AirEdge System" numbered="false" >}}
+
+#### Abstract
+The research objective of this project is to design, analyze, and evaluate AirEdge which is an innovative robust 3D airborne computing and networking system that exploits a swarm of aerial mobile radio access points and edge servers carried or deployed by unmanned aerial vehicles (UAVs). The unique feature of AirEdge is to enable fast-deployable highly-efficient on-demand edge computing and networking services through (1) the communication-motion co-design principles for 3D UAV networking, and (2) the communication-computation co-design to enable reliable and energy-efficient airborne edge computing.
+
+#### Principal Investigators:
+- Tao Han, Ph.D. (Lead PI)
+- Yu Wang, Ph.D. (PI at Temple)
+- Pu Wang, Ph.D. (PI at UNCC)
+
+#### Grduate Students:
+- Yongjie Guan
+
+
+#### Project Outcomes:
+- Publications:
+	- Yang Deng, Tao Han, and Nirwan Ansari, “FedVision: Federated Video Analytics with Edge Computing” in IEEE Open Journal of the Computer Society (OJCS), 2020.
+	- Qiang Liu, Tao Han, Ephraim Moges, “EdgeSlice: Slicing Wireless Edge Computing Network with Decentralized Deep Reinforcement Learning ” in IEEE International Conference on Distributed Computing Systems (ICDCS), 2020. (acceptance rate: 18%)
+	
+
+- Opensource Software:
+	- [EdgeSlice](https://github.com/unics-code/EdgeSlice)
+
+
+<!-- In this framework, smart cameras, radio access networks, and edge servers are recognized as infrastructure that can support multiple machine vision services through adaptive end-to-end multi-domain resource orchestration. The PIs envision that a machine vision service provider (MVSP) will own and manage a virtual network consisting of a radio access network and edge servers and have the access to ubiquitous cameras via camera sharing agreements with camera owners. Under this scenario, MVSPs are challenged to dynamically manage highly coupled resources and functions across multiple technology domains: 1) camera functions such as image preprocessing and embedded machine vision; 2) network resources in the radio access network; 3) computation resources and machine vision on the edge servers. To solve the problem, the PIs propose an interdisciplinary research project which integrates techniques and perspectives from wireless networking, computer vision, and edge computing in designing and optimizing UbiVision. -->
 
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.

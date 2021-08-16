@@ -42,8 +42,8 @@ authors:
 This project aims to realize an ambitious goal: ubiquitous machine vision (UbiVision) whose ultimate objective is to provide a platform that enables people from all over the world to share their smart cameras, which can be Uber, Airbnb, or Mobike in the context of smart cameras. The UbiVision framework consists of three main research tasks addressing challenges of dynamically managing highly coupled resources and functions across multiple technology domains: 1) camera functions such as image preprocessing and embedded machine vision; 2) network resources in the radio access network; 3) computation resources and machine vision on the edge servers. This project is interdisciplinary and integrates techniques and perspectives from wireless networking, computer vision, and edge computing in designing and optimizing UbiVision.
 
 #### Principal Investigators:
-- Tao Han, Ph.D. (Lead)
-- Chen Chen, Ph.D. (Co-PI at UCF)
+- Tao Han, Ph.D. (Lead PI)
+- Chen Chen, Ph.D. (PI at UCF)
 
 #### Grduate Students:
 - Yang Deng
