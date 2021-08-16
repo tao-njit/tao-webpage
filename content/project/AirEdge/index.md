@@ -1,6 +1,6 @@
 ---
 title: UbiVision
-summary: Design and develop ubiquitous machine vision with adaptive wireless networking and edge computing.
+summary: Design and develop robust airborne wireless edge computing networks and systems.
 
 date: "2018-10-01T00:00:00Z"
 
@@ -35,7 +35,7 @@ authors:
 <!-- slides: example -->
 ---
 
-### NSF: CNS Core: UbiVision: Ubiquitous Machine Vision with Adaptive Wireless Networking and Edge Computing
+### NSF: CNS Core: AirEdge: Robust Airborne Wireless Edge Computing Network using Swarming UAVs
 
 {{< figure src="airedge.png" caption="Overview of AirEdge System" numbered="false" >}}
 
