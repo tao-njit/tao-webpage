@@ -37,15 +37,31 @@ image:
 
 This project aims to realize an ambitious goal: ubiquitous machine vision (UbiVision) whose ultimate objective is to provide a platform that enables people from all over the world to share their smart cameras, which can be Uber, Airbnb, or Mobike in the context of smart cameras. The UbiVision framework consists of three main research tasks addressing challenges of dynamically managing highly coupled resources and functions across multiple technology domains: 1) camera functions such as image preprocessing and embedded machine vision; 2) network resources in the radio access network; 3) computation resources and machine vision on the edge servers. This project is interdisciplinary and integrates techniques and perspectives from wireless networking, computer vision, and edge computing in designing and optimizing UbiVision.
 
-#### Principal Investigators
-- Tao Han, Ph.D.
-- Chen Chen, Ph.D. (UCF)
+#### Principal Investigators:
+- Tao Han, Ph.D. (Lead)
+- Chen Chen, Ph.D. (Co-PI at UCF)
 
-#### Grduate Students
+#### Grduate Students:
 - Yang Deng
 - Ephraim Moges
 - Taojiannan Yang
 - Sijie Zhu
+
+#### Project Outcomes:
+- Publications:
+	- Yang Deng, Tao Han, and Nirwan Ansari, “FedVision: Federated Video Analytics with Edge Computing” in IEEE Open Journal of the Computer Society (OJCS), 2020.
+	- Qiang Liu, Tao Han, Ephraim Moges, “EdgeSlice: Slicing Wireless Edge Computing Network with Decentralized Deep Reinforcement Learning ” in IEEE International Conference on Distributed Computing Systems (ICDCS), 2020. (acceptance rate: 18%)
+	- Xueyu Hou and Tao Han, “TrustServing: A Quality Inspection Sampling Approach for Remote DNN Services” in IEEE International Conference on Sensing, Communication, and Networking (SECON), 2020. (accept rate: 27.9%)
+	- Ephraim Moges, and Tao Han, “DecOp: Decentralized Network Operations in Software Defined Networking using Blockchain” in IEEE INFOCOM Workshop: Blockchain for Secure Software-defined Networking in Smart Communities (BlockSecSDN), 2020.
+	- Sijie Zhu, Chen Chen, Waqas Sultani, “Video Anomaly Detection for Smart Surveillance”, Book Chapter of Computer Vision: A Reference Guide.
+	- Taojiannan Yang, Sijie Zhu, Chen Chen, Yan Shen, Mi Zhang, Andrew Willis, “MutualNet: Adaptive ConvNet via Mutual Learning from Network Width and Resolution”, European Conference on Computer Vision (ECCV), 2020. (Oral) (Acceptance Rate = 2% (104/5205))
+	- Changlin Li, Taojiannan Yang, Sijie Zhu, Chen Chen, Shanyue Guan, “Density Map Guided Object Detection in Aerial Image”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR) (EarthVision Workshop), 2020. (Acceptance Rate = 26% (14/53))
+	- Taojiannan Yang, Sijie Zhu, Chen Chen, “GradAug: A New Regularization Method for Deep Neural Networks”, Thirty-fourth Annual Conference on Neural Information Processing Systems (NeurIPS), 2020.
+
+- Opensource Software:
+	- [EdgeSlice](https://github.com/unics-code/EdgeSlice)
+	- [MutualNet](https://github.com/taoyang1122/MutualNet)
+	- [DMNet](https://github.com/Cli98/DMNet)
 
 <!-- In this framework, smart cameras, radio access networks, and edge servers are recognized as infrastructure that can support multiple machine vision services through adaptive end-to-end multi-domain resource orchestration. The PIs envision that a machine vision service provider (MVSP) will own and manage a virtual network consisting of a radio access network and edge servers and have the access to ubiquitous cameras via camera sharing agreements with camera owners. Under this scenario, MVSPs are challenged to dynamically manage highly coupled resources and functions across multiple technology domains: 1) camera functions such as image preprocessing and embedded machine vision; 2) network resources in the radio access network; 3) computation resources and machine vision on the edge servers. To solve the problem, the PIs propose an interdisciplinary research project which integrates techniques and perspectives from wireless networking, computer vision, and edge computing in designing and optimizing UbiVision. -->
 
