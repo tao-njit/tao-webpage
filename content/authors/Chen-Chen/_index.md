@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor at UCF
+role: Assistant Professor at University of Central Florida
 
 # Organizations/Affiliations
 organizations:
-- name: University of Central Florida
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

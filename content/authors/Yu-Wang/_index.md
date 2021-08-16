@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor at Temple
+role: Professor at Temple University
 
 # Organizations/Affiliations
 organizations:

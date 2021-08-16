@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor at UNCC
+role: Associate Professor at University of North Carolina at Charlotte
 
 # Organizations/Affiliations
 organizations:
-- name: University of North Carolina at Charlotte
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

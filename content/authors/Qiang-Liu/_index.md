@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor at UNL
+role: Assistant Professor at University of Nebraska–Lincoln
 
 # Organizations/Affiliations
 organizations:
-- name: University of Nebraska–Lincoln
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
