@@ -51,11 +51,11 @@ This I-Corps project explores the commercial potential of a low-cost holographic
 
 #### Project Outcomes:
 - Publications:
-	- 
+	- To appear
 	
 
 - Opensource Software:
-	- 
+	- To appear
 
 
 <!-- In this framework, smart cameras, radio access networks, and edge servers are recognized as infrastructure that can support multiple machine vision services through adaptive end-to-end multi-domain resource orchestration. The PIs envision that a machine vision service provider (MVSP) will own and manage a virtual network consisting of a radio access network and edge servers and have the access to ubiquitous cameras via camera sharing agreements with camera owners. Under this scenario, MVSPs are challenged to dynamically manage highly coupled resources and functions across multiple technology domains: 1) camera functions such as image preprocessing and embedded machine vision; 2) network resources in the radio access network; 3) computation resources and machine vision on the edge servers. To solve the problem, the PIs propose an interdisciplinary research project which integrates techniques and perspectives from wireless networking, computer vision, and edge computing in designing and optimizing UbiVision. -->
