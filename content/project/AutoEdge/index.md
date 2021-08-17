@@ -12,7 +12,7 @@ authors:
 #external_link: ""
 
 -- image:
-  placement: 1
+  placement: 2
   caption: Overview of AutoEdge System
   focal_point: Smart 
   preview_only: false

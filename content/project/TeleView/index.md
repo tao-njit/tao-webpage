@@ -14,7 +14,7 @@ authors:
 -- image:
   caption: Overview of TeleView System
   focal_point: Smart 
-  preview_only: true
+  preview_only: false
 
 #-- links:
 # - icon: twitter
