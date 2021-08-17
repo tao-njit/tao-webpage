@@ -1,6 +1,6 @@
 ---
 title: Research
-view: 4
+view: 2
 
 header:
   caption: ""
