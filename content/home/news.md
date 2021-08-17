@@ -2,6 +2,8 @@
 title: Latest News
 view: 3
 
+weight: 30
+
 header:
   caption: ""
   image: ""
