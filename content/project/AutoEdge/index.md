@@ -12,9 +12,10 @@ authors:
 #external_link: ""
 
 -- image:
+  placement: 1
   caption: Overview of AutoEdge System
   focal_point: Smart 
-  preview_only: true
+  preview_only: false
 
 #-- links:
 # - icon: twitter
