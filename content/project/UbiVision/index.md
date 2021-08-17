@@ -13,8 +13,8 @@ authors:
 
 -- image:
   caption: Overview of UbiVision System
-  focal_point: Center 
-  preview_only: true
+  focal_point: Smart 
+  preview_only: false
 
 #-- links:
 # - icon: twitter

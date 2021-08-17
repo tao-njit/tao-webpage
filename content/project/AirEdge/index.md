@@ -12,10 +12,10 @@ authors:
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
 
-# -- image:
-  # caption: Overview of UbiVision System
-  # focal_point: Center 
-  # preview_only: true
+-- image:
+  caption: Overview of AirEdge System
+  focal_point: Smart  
+  preview_only: false
 
 #-- links:
 # - icon: twitter
