@@ -1,11 +1,3 @@
-<!-- ---
-title: Research
-view: 2
-
-header:
-  caption: ""
-  image: ""
---- -->
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
