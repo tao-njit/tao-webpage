@@ -2,6 +2,9 @@
 title: Research
 view: 3
 
+# Order that this section appears on the page.
+weight: 30
+
 header:
   caption: ""
   image: ""
