@@ -34,3 +34,4 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+{{ $image := $resource.Resize "600x" }}
