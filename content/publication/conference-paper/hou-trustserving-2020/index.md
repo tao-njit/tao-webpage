@@ -22,7 +22,6 @@ image:
   focal_point: 'Smart'
   preview_only: false
   
-{{ $image := $resource.Resize "600x" }}
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -37,3 +36,5 @@ abstract: 'Deep neural networks (DNNs) are being applied to various areas such a
 publication: '*IEEE International Conference on Sensing, Communication and Networking
   (SECON)*'
 ---
+
+{{ $image := $resource.Resize "600x" }}
