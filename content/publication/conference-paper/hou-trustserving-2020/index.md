@@ -37,4 +37,3 @@ publication: '*IEEE International Conference on Sensing, Communication and Netwo
   (SECON)*'
 ---
 
-{{ $image := $resource.Resize "600x" }}
