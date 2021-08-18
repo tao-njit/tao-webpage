@@ -5,7 +5,7 @@
 
 title: # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {2021} Tao Han' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
