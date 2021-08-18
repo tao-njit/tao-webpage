@@ -66,10 +66,10 @@ user_groups:
   - Collaborators
 
 ---
-Dr. Liu received Ph.D. in Electrical Engineering under Dr. Han's supervision from the University of North Carolina at Charlotte in Dec. 2021. His research topics are network slicing, wireless edge computing, deep reinforcement learning, and augmented reality. 
+Dr. Qiang Liu received Ph.D. in Electrical Engineering under Dr. Han's supervision from the University of North Carolina at Charlotte in Dec. 2021. His research topics are network slicing, wireless edge computing, deep reinforcement learning, and augmented reality. 
 
 ### Jobs
 
-* Network System Researcher at Nokia Bell Labs, Jan. 2021 - Aug. 2021
+* Member of Technical Staff at Nokia Bell Labs, Jan. 2021 - Aug. 2021
 * Tenure-Track Assistant Professor at University of Nebraska–Lincoln, Aug. 2021 - Present
 
