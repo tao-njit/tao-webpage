@@ -21,6 +21,8 @@ image:
   caption: 'System Overview'
   focal_point: 'Smart'
   preview_only: false
+  
+{{ $image := $resource.Resize "600x" }}
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
