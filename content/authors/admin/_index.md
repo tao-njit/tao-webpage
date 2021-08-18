@@ -40,7 +40,7 @@ social:
   icon_pack: fas
   link: '/#contact'
 - icon: google-scholar
-  icon_pack: fas
+  icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=XTqHKqIAAAAJ
 #- icon: github
 #  icon_pack: fab
