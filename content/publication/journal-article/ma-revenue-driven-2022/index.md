@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'FedVision: Federated Video Analytics With Edge Computing'
+title: 'Towards Revenue-Driven Multi-User Online Task Offloading in Edge Computing'
 subtitle: ''
 summary: ''
 authors:
