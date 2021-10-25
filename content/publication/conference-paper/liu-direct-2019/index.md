@@ -32,6 +32,6 @@ publishDate: '2021-08-13T02:20:05.507775Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*ACM International Symposium on Mobile Ad Hoc Networking and Computing
-  (MobiHoc)*'
+publication: '*ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc)*'
+url_pdf: https://dl.acm.org/doi/10.1145/3323679.3326516
 ---

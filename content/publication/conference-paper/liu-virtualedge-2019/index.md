@@ -34,4 +34,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*IEEE International Conference on Distributed Computing Systems (ICDCS)*'
+url_pdf: https://ieeexplore.ieee.org/document/8884864
 ---
