@@ -40,4 +40,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Transactions on Parallel and Distributed Systems*'
+url_pdf: https://ieeexplore.ieee.org/document/9516964
 ---
