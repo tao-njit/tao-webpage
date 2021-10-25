@@ -35,4 +35,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*IEEE International Conference on Computer Communications (INFOCOM)*'
+url_pdf: https://ieeexplore.ieee.org/document/8486241
 ---

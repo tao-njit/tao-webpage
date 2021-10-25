@@ -33,4 +33,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*IEEE International Conference on Network Protocols (ICNP)*'
+url_pdf: https://ieeexplore.ieee.org/document/8526799
 ---

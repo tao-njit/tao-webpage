@@ -35,4 +35,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*IEEE Global Communications Conference (GLOBECOM)*'
+url_pdf: https://ieeexplore.ieee.org/document/8647792
 ---

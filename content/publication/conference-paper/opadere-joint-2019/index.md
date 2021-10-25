@@ -35,6 +35,6 @@ publishDate: '2021-08-13T02:20:03.813779Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*IEEE International Conference on Communications (ICC) (IEEE ICC Best
-  Paper Award & TAOS Best Paper Award)*'
+publication: '*IEEE International Conference on Communications (ICC) (IEEE ICC Best Paper Award & TAOS Best Paper Award)*'
+url_pdf: https://ieeexplore.ieee.org/document/8761886 
 ---
