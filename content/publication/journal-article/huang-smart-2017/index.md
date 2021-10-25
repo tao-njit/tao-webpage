@@ -35,4 +35,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE/ACM Transactions on Networking*'
+url_pdf: https://ieeexplore.ieee.org/document/7845702
 ---

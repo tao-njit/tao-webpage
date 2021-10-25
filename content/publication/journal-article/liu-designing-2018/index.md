@@ -35,4 +35,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Transactions on Green Communications and Networking*'
+url_pdf: https://ieeexplore.ieee.org/document/8357887
 ---

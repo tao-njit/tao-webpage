@@ -34,4 +34,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Transactions on Mobile Computing*'
+url_pdf: https://ieeexplore.ieee.org/document/7815421
 ---
