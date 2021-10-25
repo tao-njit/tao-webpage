@@ -33,7 +33,7 @@ publishDate: '2021-10-13T02:20:26.421721Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '* IEEE International Conference on Network Protocols (ICNP)*'
+publication: '*IEEE International Conference on Network Protocols (ICNP)*'
 url_pdf: https://arxiv.org/abs/2110.04320
 ---
 
