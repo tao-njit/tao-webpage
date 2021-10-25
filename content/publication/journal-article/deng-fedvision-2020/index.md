@@ -34,4 +34,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Open Journal of the Computer Society*'
+url_pdf: https://ieeexplore.ieee.org/document/9097917
 ---
