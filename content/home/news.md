@@ -8,7 +8,7 @@ header:
   caption: ""
   image: ""
 ---
-- Congrats! Our paper "OnSlicing: Online End-to-End Network Slicing with Reinforcement Learning" is accepted for presentation at **ACM CoNEXT 2021**。
+- Congrats! Our paper "OnSlicing: Online End-to-End Network Slicing with Reinforcement Learning" is accepted for presentation at **ACM CoNEXT 2021**.
 - Congrats! Our paper "Constraint-Aware Deep Reinforcement Learning for End-to-End Resource Orchestration in Mobile Networks" is accepted for presentation at **IEEE ICNP 2021**.
 - Congrats! Our paper "Towards Revenue-Driven Multi-User Online Task Offloading in Edge Computing" is accepted for publication in **IEEE Transactions on Parallel and Distributed Systems**.
 - Congrats! Our paper "Survey on Sleep Mode Techniques for Ultra-Dense Networks in 5G and Beyond" is accepted for publication in **Elsevier Computer Networks**.
