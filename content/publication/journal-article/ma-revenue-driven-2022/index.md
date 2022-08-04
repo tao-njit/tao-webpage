@@ -39,6 +39,6 @@ publishDate: '2021-10-24T02:37:06.725564Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*IEEE Transactions on Parallel and Distributed Systems*'
+publication: '*IEEE Transactions on Parallel and Distributed Systems (TPDS)*'
 url_pdf: https://ieeexplore.ieee.org/document/9516964
 ---
