@@ -8,6 +8,10 @@ header:
   caption: ""
   image: ""
 ---
+- Congrats! Our paper "DeepMix: Mobility-aware, Lightweight, and Hybrid 3D Object Detection for Headsets" is accepted for presentation at **ACM MobiSys 2022**.
+- Congrats! Our paper "DistrEdge: Speeding up Convolutional Neural Network Inference on Distributed Edge Devices" is accepted for presentation at **IEEE IPDPS 2022**.
+- Congrats! Pedro will work as an intern at Google at Mountain View, CA, during summer 2022. 
+- Congrats! Yang will work as an intern at Nokia Bell Labs at Murray Hills, NJ, during summer 2022. 
 - Congrats! Our paper "OnSlicing: Online End-to-End Network Slicing with Reinforcement Learning" is accepted for presentation at **ACM CoNEXT 2021**.
 - Congrats! Our paper "Constraint-Aware Deep Reinforcement Learning for End-to-End Resource Orchestration in Mobile Networks" is accepted for presentation at **IEEE ICNP 2021**.
 - Congrats! Our paper "Towards Revenue-Driven Multi-User Online Task Offloading in Edge Computing" is accepted for publication in **IEEE Transactions on Parallel and Distributed Systems**.
