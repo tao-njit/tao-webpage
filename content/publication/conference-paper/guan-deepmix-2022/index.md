@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2022-06-01'
-lastmod: 2022-08-4T17:50:12-04:00
+lastmod: 2022-08-03T17:50:12-04:00
 featured: true
 draft: false
 
