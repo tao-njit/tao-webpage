@@ -48,7 +48,7 @@ and cryptography with an E2E security. We presented a deep review of the securit
 network slicing and how to mitigate them over a multi-domain infrastructure in 5G networks. we evaluated
 the performance of some of these solutions in preventing malicious attacks through experiments using Open
 Air Interface'
-publication: '* IEEE Open Journal of the Computer Society*'
+publication: '*IEEE Open Journal of the Computer Society*'
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9741386
 doi: 10.1109/OJCS.2022.3161933
 ---
