@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Towards Revenue-Driven Multi-User Online Task Offloading in Edge Computing'
+title: 'MutualNet: Adaptive ConvNet via Mutual Learning from Different Model Configurations'
 subtitle: ''
 summary: ''
 authors:
