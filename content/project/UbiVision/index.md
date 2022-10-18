@@ -47,12 +47,18 @@ This project aims to realize an ambitious goal: ubiquitous machine vision (UbiVi
 
 #### Grduate Students:
 - Yang Deng
+- Yongjie Guan
 - Ephraim Moges
 - Taojiannan Yang
 - Sijie Zhu
+- Ce Zheng
 
 #### Project Outcomes:
 - Publications:
+	- Xueyu Hou, Yongjie Guan, Tao Han. NeuLens: Spatial-based Dynamic Acceleration of Convolutional Neural Networks on Edge. The 28th Annual International Conference On Mobile Computing And Networking (ACM MobiCom), 2022.
+	- Yongjie Guan, Xueyu Hou, Nan Wu, Bo Han, Tao Han. DeepMix: Mobility-aware, Lightweight, and Hybrid 3D Object Detection for Headsets. The 20th Annual International Conference on Mobile Systems, Applications and Services (ACM MobiSys 22), 2022.
+	- Xueyu Hou, Yongjie Guan, Tao Han, Ning Zhang. DistrEdge: Speeding up Convolutional Neural Network Inference on Distributed Edge Devices. IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2022.
+	- Taojiannan Yang, Sijie Zhu, Matias Mendieta, Pu Wang, Ravikumar Balakrishnan, Minwoo Lee, Tao Han, Mubarak Shah, Chen Chen. MutualNet: Adaptive ConvNet via Mutual Learning from Different Model Configurations. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2021.
 	- Yang Deng, Tao Han, and Nirwan Ansari, “FedVision: Federated Video Analytics with Edge Computing” in IEEE Open Journal of the Computer Society (OJCS), 2020.
 	- Qiang Liu, Tao Han, Ephraim Moges, “EdgeSlice: Slicing Wireless Edge Computing Network with Decentralized Deep Reinforcement Learning ” in IEEE International Conference on Distributed Computing Systems (ICDCS), 2020. (acceptance rate: 18%)
 	- Xueyu Hou and Tao Han, “TrustServing: A Quality Inspection Sampling Approach for Remote DNN Services” in IEEE International Conference on Sensing, Communication, and Networking (SECON), 2020. (accept rate: 27.9%)
