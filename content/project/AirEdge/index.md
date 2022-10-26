@@ -49,14 +49,29 @@ The research objective of this project is to design, analyze, and evaluate AirEd
 
 #### Grduate Students:
 - Yongjie Guan
+- Xueyu Hou
+- Pinyarash Pinyoanuntapong
+- Xinliang Wei
 
 
 #### Project Outcomes:
 - Publications:
+  - Xueyu Hou, Yongjie Guan, Tao Han, “NeuLens: Spatial-based Dynamic Acceleration of Convolutional Neural Networks on Edge”， the 28th Annual International Conference On Mobile Computing And Networking (ACM MobiCom), 2022.
+  - Yongjie Guan, Xueyu Hou, Nan Wu, Bo Han, Tao Han， “DeepMix: Mobility-aware, Lightweight, and Hybrid 3D Object Detection for Headsets”， the 20th Annual International Conference on Mobile Systems, Applications and Services (ACM MobiSys 22), 2022.
+  - Xueyu Hou, Yongjie Guan, Tao Han, “DistrEdge: Speeding up Convolutional Neural Network Inference on Distributed Edge Devices”, IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2022. 
+  - Pinyarash Pinyoanuntapong, Prabhu Janakaraj, Ravikumar Balakrishnan,, Minwoo Lee, Chen Chen, and Pu Wang, “EdgeML: Towards Network-Accelerated Federated Learning over Wireless Edge”, to appear in Computer Networks Journal, Sept. 2022 . preprint: 
+  - Pinyarash Pinyoanuntapong, Wesley Houston Huff, Minwoo Lee, Chen Chen, and Pu Wang, “Towards Scalable and Robust AIoT via Decentralized Federated Learning”, IEEE Internet of Things Magazine, 2022
+  - Xinliang Wei, Jiyao Liu, Yu Wang, “Joint Participant Selection and Learning Scheduling for Multi-Model Federated Edge Learning”, 19th IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2022), Denver, Colorado, October 2022.
+  - Xinliang Wei, Jiyao Liu, Xinghua Shi, Yu Wang, “Participant Selection for Hierarchical Federated Learning in Edge Clouds”, 16th IEEE International Conference on Networking, Architecture, and Storage (NAS 2022), Philadelphia, PA, October 2022.
+  - Pinyarash Pinyoanuntapong, Prabhu Janakaraj, Ravikumar Balakrishnan, Minwoo Lee, Chen Chen, Pu Wang, "EdgeML: Towards network-accelerated federated learning over wireless edge", Computer Networks, Volume 219, 2022,
+  - Xinliang Wei, A B M Mohaimenur Rahman, Yu Wang, “Data Placement Strategies for Data-Intensive Computing over Edge Clouds”, 40th IEEE International Performance Computing and Communications Conference (IPCCC 2021), Virtual conference, October 2021.
+  - Xinliang Wei, Yu Wang, “Joint Resource Placement and Task Dispatching in Mobile Edge Computing across Timescales”, IEEE/ACM International Symposium on Quality of Service (IWQoS 2021), Virtual conference, June 2021.
+   - Xinliang Wei, A B M Mohaimenur Rahman, Dazhao Cheng, Yu Wang, “Joint Optimization across Timescales: Resource Placement and Task Dispatching in Edge Clouds”, in IEEE Transactions on Cloud Computing, September 2021.
+  - Xinliang Wei, Yu Wang, “Popularity-based Data Placement with Load Balancing in Edge Computing”, in IEEE Transactions on Cloud Computing, July 2021.
 	- Yang Deng, Tao Han, and Nirwan Ansari, “FedVision: Federated Video Analytics with Edge Computing” in IEEE Open Journal of the Computer Society (OJCS), 2020.
-	- Qiang Liu, Tao Han, Ephraim Moges, “EdgeSlice: Slicing Wireless Edge Computing Network with Decentralized Deep Reinforcement Learning ” in IEEE International Conference on Distributed Computing Systems (ICDCS), 2020. (acceptance rate: 18%)
+	- Qiang Liu, Tao Han, Ephraim Moges, “EdgeSlice: Slicing Wireless Edge Computing Network with Decentralized Deep Reinforcement Learning”， in IEEE International Conference on Distributed Computing Systems (ICDCS), 2020. (acceptance rate: 18%)
 	
-
+ 
 - Opensource Software:
 	- [EdgeSlice](https://github.com/unics-code/EdgeSlice)
 
