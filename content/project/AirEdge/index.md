@@ -66,7 +66,7 @@ The research objective of this project is to design, analyze, and evaluate AirEd
   - Pinyarash Pinyoanuntapong, Prabhu Janakaraj, Ravikumar Balakrishnan, Minwoo Lee, Chen Chen, Pu Wang, "EdgeML: Towards network-accelerated federated learning over wireless edge", Computer Networks, Volume 219, 2022,
   - Xinliang Wei, A B M Mohaimenur Rahman, Yu Wang, “Data Placement Strategies for Data-Intensive Computing over Edge Clouds”, 40th IEEE International Performance Computing and Communications Conference (IPCCC 2021), Virtual conference, October 2021.
   - Xinliang Wei, Yu Wang, “Joint Resource Placement and Task Dispatching in Mobile Edge Computing across Timescales”, IEEE/ACM International Symposium on Quality of Service (IWQoS 2021), Virtual conference, June 2021.
-   - Xinliang Wei, A B M Mohaimenur Rahman, Dazhao Cheng, Yu Wang, “Joint Optimization across Timescales: Resource Placement and Task Dispatching in Edge Clouds”, in IEEE Transactions on Cloud Computing, September 2021.
+  - Xinliang Wei, A B M Mohaimenur Rahman, Dazhao Cheng, Yu Wang, “Joint Optimization across Timescales: Resource Placement and Task Dispatching in Edge Clouds”, in IEEE Transactions on Cloud Computing, September 2021.
   - Xinliang Wei, Yu Wang, “Popularity-based Data Placement with Load Balancing in Edge Computing”, in IEEE Transactions on Cloud Computing, July 2021.
 	- Yang Deng, Tao Han, and Nirwan Ansari, “FedVision: Federated Video Analytics with Edge Computing” in IEEE Open Journal of the Computer Society (OJCS), 2020.
 	- Qiang Liu, Tao Han, Ephraim Moges, “EdgeSlice: Slicing Wireless Edge Computing Network with Decentralized Deep Reinforcement Learning”， in IEEE International Conference on Distributed Computing Systems (ICDCS), 2020. (acceptance rate: 18%)
