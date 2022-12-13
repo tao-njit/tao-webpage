@@ -8,6 +8,7 @@ header:
   caption: ""
   image: ""
 ---
+- Congratulations to Yang! He starts his career as a research scientist with Nokia Bell Labs at Murray Hills, NJ.   
 - Congrats! Our paper "Atlas: Automate Online Service Configuration in Network Slicing" is accepted for presentation at **ACM CoNEXT 2022**.
 - Congrats! Our paper "NeuLens: Spatial-based Dynamic Acceleration of Convolutional Neural Networks on Edge" is accepted for presentation at **ACM MobiCom 2022**.
 - Congrats! Our paper "DeepMix: Mobility-aware, Lightweight, and Hybrid 3D Object Detection for Headsets" is accepted for presentation at **ACM MobiSys 2022**.
