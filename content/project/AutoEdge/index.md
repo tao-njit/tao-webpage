@@ -64,7 +64,7 @@ This CAREER project aims to develop deep reinforcement learning (DRL) methods an
   - Yongjie Guan, Xueyu Hou, Nan Wu, Bo Han, Tao Han, "DeepMix: Mobility-aware, Lightweight, and Hybrid 3D Object Detection for Headsets", in the 20th Annual International Conference on Mobile Systems, Applications and Services (ACM MobiSys 22), 2022.
   - Xueyu Hou, Yongjie Guan, Tao Han, "NeuLens: Spatial-based Dynamic Acceleration of Convolutional Neural Networks on Edge", in the 28th Annual International Conference On Mobile Computing And Networking (ACM MobiCom), 2022.
   - Qiang Liu, Nakjung Choi, Tao Han, "OnSlicing: Online end-to-end network slicing with reinforcement learning", in the 17th International Conference on emerging Networking EXperiments and Technologies (ACM CoNEXT), 2021.
-  - Qiang Liu, Nakjung Choi, Tao Han, "Constraint-Aware Deep Reinforcement Learning for End-to-End Resource Orchestration in Mobile Networks". in IEEE International Conference on Network Protocols (ICNP), 2021.	- Qiang Liu, Tao Han, Ephraim Moges, “EdgeSlice: Slicing Wireless Edge Computing Network with Decentralized Deep Reinforcement Learning”, in IEEE International Conference on Distributed Computing Systems (ICDCS), 2020. 
+  - Qiang Liu, Nakjung Choi, Tao Han, "Constraint-Aware Deep Reinforcement Learning for End-to-End Resource Orchestration in Mobile Networks". in IEEE International Conference on Network Protocols (ICNP), 2021.
 
 - Opensource Software:
 	- [EdgeSlice](https://github.com/unics-code/EdgeSlice)
