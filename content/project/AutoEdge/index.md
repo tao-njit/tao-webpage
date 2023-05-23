@@ -47,15 +47,35 @@ This CAREER project aims to develop deep reinforcement learning (DRL) methods an
 
 #### Grduate Students:
 - Xueyu Hou
+- Yang Deng
 
+#### Undergrduate Students:
+- Erika Hurst (2022 Provost URI Summer Research Fellow)
+
+#### Industrial Collaborator:
+- Dr. Nakjung Choi, Nokia Bell Labs
 
 #### Project Outcomes:
 - Publications:
-	- Qiang Liu, Tao Han, Ephraim Moges, “EdgeSlice: Slicing Wireless Edge Computing Network with Decentralized Deep Reinforcement Learning ” in IEEE International Conference on Distributed Computing Systems (ICDCS), 2020. (acceptance rate: 18%)
+  -  Qiang Liu, Nakjung Choi, Tao Han, "Atlas: Automate Online Service Configuration in Network Slicing", in the 18th International Conference on emerging Networking EXperiments and Technologies (ACM CoNEXT), 2022.
+  -  Qiang Liu, Nakjung Choi, Tao Han, "Deep Reinforcement Learning for End-to-End Network Slicing: Challenges and Solutions", IEEE Network, 2022.
+  - Fatima Salahdine, Qiang Liu, Tao Han, "Towards Secure and Intelligent Network Slicing for 5G Networks", IEEE Open Journal of the Computer Society, 2022.
+  -  Xueyu Hou, Yongjie Guan, Tao Han, Ning Zhang, "DistrEdge: Speeding up Convolutional Neural Network Inference on Distributed Edge Devices", in IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2022.
+  - Yongjie Guan, Xueyu Hou, Nan Wu, Bo Han, Tao Han, "DeepMix: Mobility-aware, Lightweight, and Hybrid 3D Object Detection for Headsets", in the 20th Annual International Conference on Mobile Systems, Applications and Services (ACM MobiSys 22), 2022.
+  - Xueyu Hou, Yongjie Guan, Tao Han, "NeuLens: Spatial-based Dynamic Acceleration of Convolutional Neural Networks on Edge", in the 28th Annual International Conference On Mobile Computing And Networking (ACM MobiCom), 2022.
+  - Qiang Liu, Nakjung Choi, Tao Han, "OnSlicing: Online end-to-end network slicing with reinforcement learning", in the 17th International Conference on emerging Networking EXperiments and Technologies (ACM CoNEXT), 2021.
+  - Qiang Liu, Nakjung Choi, Tao Han, "Constraint-Aware Deep Reinforcement Learning for End-to-End Resource Orchestration in Mobile Networks". in IEEE International Conference on Network Protocols (ICNP), 2021.
+	- Qiang Liu, Tao Han, Ephraim Moges, “EdgeSlice: Slicing Wireless Edge Computing Network with Decentralized Deep Reinforcement Learning”, in IEEE International Conference on Distributed Computing Systems (ICDCS), 2020. 
 	
 
 - Opensource Software:
 	- [EdgeSlice](https://github.com/unics-code/EdgeSlice)
+  - [Atlas](https://github.com/int-unl/atlas)
+
+#### Project Outreach
+  - The PI has created a new undergraduate course on "Introduction to Applied Machine Learning." which integrates some research outcomes of the project into course materials.
+  - The PI has delivered a research talk on machine learning for network slicing at the computer science department of the New Jersey Institute of Technology.
+  - The PI has delivered a research talk on machine learning for network slicing at the Annual IEEE North Jersey Advanced Communications Symposium.
 
 
 <!-- In this framework, smart cameras, radio access networks, and edge servers are recognized as infrastructure that can support multiple machine vision services through adaptive end-to-end multi-domain resource orchestration. The PIs envision that a machine vision service provider (MVSP) will own and manage a virtual network consisting of a radio access network and edge servers and have the access to ubiquitous cameras via camera sharing agreements with camera owners. Under this scenario, MVSPs are challenged to dynamically manage highly coupled resources and functions across multiple technology domains: 1) camera functions such as image preprocessing and embedded machine vision; 2) network resources in the radio access network; 3) computation resources and machine vision on the edge servers. To solve the problem, the PIs propose an interdisciplinary research project which integrates techniques and perspectives from wireless networking, computer vision, and edge computing in designing and optimizing UbiVision. -->
