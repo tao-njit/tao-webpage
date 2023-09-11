@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: RoNet: Toward Robust Neural Assisted Mobile Network Configuration
+title: RoNet: 'Toward Robust Neural Assisted Mobile Network Configuration'
 subtitle: ''
 summary: ''
 authors:
