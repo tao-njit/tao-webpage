@@ -52,12 +52,18 @@ The research objective of this project is to design, analyze, and evaluate AirEd
 - Xueyu Hou
 - Pinyarash Pinyoanuntapong
 - Xinliang Wei
+- Xuanzhang Liu
 
 
 #### Project Outcomes:
 - Publications:
+  - Xueyu Hou, Yongjie Guan, Tao Han, “Dystri: A Dynamic Inference based Distributed DNN Service Framework on Edge”, In Proceedings of the 52nd International Conference on Parallel Processing (ACM ICPP), 2023
+  - W. Huff, P. Pinyoanuntapong, R. Balakrishnan, H. Feng, M. Lee, P. Wang, and C. Chen, "DHA-FL: Enabling Efficient and Effective AIoT via Decentralized Hierarchical Asynchronous Federated Learning",  in Proc.  MLSys 2023 Workshop on Resource-Constrained Learning in Wireless Networks, 2023
+  - Xinliang Wei, Lei Fan, Yuanxiong Guo, Yanming Gong, Zhu Han, Yu Wang， “Quantum Assisted Scheduling Algorithm for Federated Learning in Distributed Networks”， In Proceedings of 32nd IEEE International Conference on Computer Communications and Networks (ICCCN 2023), Honolulu, Hawaii, July 2023.
+  - Jiyao Liu, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang， “Group-based Hierarchical Federated Learning: Convergence, Group Formation, and Sampling”， In Proceedings of 52nd International Conference on Parallel Processing (ICPP 2023), Salt Lake City, Utah, August 2023.
   - Xueyu Hou, Yongjie Guan, Tao Han, “NeuLens: Spatial-based Dynamic Acceleration of Convolutional Neural Networks on Edge”， the 28th Annual International Conference On Mobile Computing And Networking (ACM MobiCom), 2022.
   - Yongjie Guan, Xueyu Hou, Nan Wu, Bo Han, Tao Han， “DeepMix: Mobility-aware, Lightweight, and Hybrid 3D Object Detection for Headsets”， the 20th Annual International Conference on Mobile Systems, Applications and Services (ACM MobiSys 22), 2022.
+  - Pinyarash Pinyoanuntapong, Prabhu Janakaraj, Ravikumar Balakrishnan,, Minwoo Lee, Chen Chen, and Pu Wang, “EdgeML: Towards Network-Accelerated Federated Learning over Wireless Edge”,Computer Networks Journal,  Volume 219, Dec. 2022 . 
   - Xueyu Hou, Yongjie Guan, Tao Han, “DistrEdge: Speeding up Convolutional Neural Network Inference on Distributed Edge Devices”, IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2022. 
   - Pinyarash Pinyoanuntapong, Wesley Houston Huff, Minwoo Lee, Chen Chen, and Pu Wang, “Towards Scalable and Robust AIoT via Decentralized Federated Learning”, IEEE Internet of Things Magazine, 2022
   - Xinliang Wei, Jiyao Liu, Yu Wang, “Joint Participant Selection and Learning Scheduling for Multi-Model Federated Edge Learning”, 19th IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2022), Denver, Colorado, October 2022.
