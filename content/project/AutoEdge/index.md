@@ -47,7 +47,7 @@ This CAREER project aims to develop deep reinforcement learning (DRL) methods an
 
 #### Grduate Students:
 - Xueyu Hou
-- Yang Deng
+- Yang Deng (Graduated in Dec. 2023, joined Nokia Bell Labs as a research scientist)
 
 #### Undergrduate Students:
 - Erika Hurst (2022 Provost URI Summer Research Fellow)
@@ -57,6 +57,9 @@ This CAREER project aims to develop deep reinforcement learning (DRL) methods an
 
 #### Project Outcomes:
 - Publications:
+  - Yuru Zhang, Yongjie Xue, Qiang Liu, Nakjung Choi, Tao Han, "RoNet: Toward Robust Neural Assisted Mobile Network Configuration", IEEE International Conference on Communications (ICC), 2023. 
+  - Xueyu Hou, Yongjie Guan, Tao Han, "Dystri: A Dynamic Inference based Distributed DNN Service Framework on Edge", International Conference on Parallel Processing (ICPP 23), 2023. 
+  - Yongjie Guan, Xueyu Hou, Nan Wu, Bo Han, Tao Han, "MetaStream: Live Volumetric Content Capture, Creation, Delivery, and Rendering in Real Time", The 29th Annual International Conference On Mobile Computing And Networking (MobiCom 23), 2023.
   - Qiang Liu, Nakjung Choi, Tao Han, "Atlas: Automate Online Service Configuration in Network Slicing", in the 18th International Conference on emerging Networking EXperiments and Technologies (ACM CoNEXT), 2022.
   - Qiang Liu, Nakjung Choi, Tao Han, "Deep Reinforcement Learning for End-to-End Network Slicing: Challenges and Solutions", IEEE Network, 2022.
   - Fatima Salahdine, Qiang Liu, Tao Han, "Towards Secure and Intelligent Network Slicing for 5G Networks", IEEE Open Journal of the Computer Society, 2022.
@@ -72,6 +75,9 @@ This CAREER project aims to develop deep reinforcement learning (DRL) methods an
   - [Atlas](https://github.com/int-unl/atlas)
 
 #### Project Outreach
+  - The PI has delivered a research talk on machine learning for network slicing at the computer science department of the Fairleigh Dickinson University. 
+  - The PI has delivered a research talk on machine learning for network slicing at the electrical and computer engineering department of the Stevens Institute of Technology. 
+  - The PI has presented the research outcome to high school students at High-Tech High Shool of New Jersey. 
   - The PI has created a new undergraduate course on "Introduction to Applied Machine Learning." which integrates some research outcomes of the project into course materials.
   - The PI has delivered a research talk on machine learning for network slicing at the computer science department of the New Jersey Institute of Technology.
   - The PI has delivered a research talk on machine learning for network slicing at the Annual IEEE North Jersey Advanced Communications Symposium.
