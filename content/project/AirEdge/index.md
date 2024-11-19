@@ -50,15 +50,22 @@ The research objective of this project is to design, analyze, and evaluate AirEd
 #### Grduate Students:
 - Yongjie Guan
 - Xueyu Hou
-- Pinyarash Pinyoanuntapong
-- Xinliang Wei
+- Houston Huff
+- Farnoosh Koleini 
+- Jiyao Liu
 - Xuanzhang Liu
 
 
 #### Project Outcomes:
 - Publications:
-  - Xueyu Hou, Yongjie Guan, Tao Han, “Dystri: A Dynamic Inference based Distributed DNN Service Framework on Edge”, In Proceedings of the 52nd International Conference on Parallel Processing (ACM ICPP), 2023
-  - W. Huff, P. Pinyoanuntapong, R. Balakrishnan, H. Feng, M. Lee, P. Wang, and C. Chen, "DHA-FL: Enabling Efficient and Effective AIoT via Decentralized Hierarchical Asynchronous Federated Learning",  in Proc.  MLSys 2023 Workshop on Resource-Constrained Learning in Wireless Networks, 2023
+  - X. Hou, Y. Guan, N. Choi and T. Han, "BPS: Batching, Pipelining, Surgeon of Continuous Deep Inference on Collaborative Edge Intelligence," in IEEE Transactions on Cloud Computing, vol. 12, no. 3, pp. 830-843, July-Sept. 2024, doi: 10.1109/TCC.2024.3399616.
+  - Guangyu Sun, Umar Khalid, Matias Mendieta, Pu Wang, Chen Chen, “Exploring Parameter-Efficient Fine-Tuning to Enable Foundation Models in Federated Learning,” IEEE International Conference on Big Data (BigData), 2024.
+  - Jiyao Liu, Xuanzhang Liu, Xinliang Wei, Hongchang Gao, Yu Wang, Group Formation and Sampling in Group-based Hierarchical Federated Learning, IEEE Transactions on Cloud Computing (TCC), to appear. 10.1109/TCC.2024.3482865.
+  - Xinliang Wei, Kejiang Ye, Xinghua Shi, Cheng-Zhong Xu, Yu Wang, Joint Participant and Learning Topology Selection for Federated Learning in Edge Clouds, IEEE Transactions on Parallel and Distributed Systems, Volume: 35, Issue: 8, Pages: 1456 - 1468, August 2024. 10.1109/TPDS.2024.3413751.
+  - Xinliang Wei, Jiyao Liu, Yu Wang, Joint Participant Selection and Learning Optimization for Federated Learning of Multiple Models in Edge Cloud, Journal of Computer Science and Technology, Volume: 38, Issue: 4, Pages: 754-772, July 2023.10.1007/s11390-023-3074-4.
+  - Xuanzhang Liu, Jiyao Liu, Xinliang Wei, Yu Wang, Incentive Mechanism Design in Semi-Asynchronous Blockchain-based Federated Learning, 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), Washington DC, October, 2024.
+  - Xueyu Hou, Yongjie Guan, Tao Han, “Dystri: A Dynamic Inference based Distributed DNN Service Framework on Edge”, In Proceedings of the 52nd International Conference on Parallel Processing (ACM ICPP), 2023.
+  - W. Huff, P. Pinyoanuntapong, R. Balakrishnan, H. Feng, M. Lee, P. Wang, and C. Chen, "DHA-FL: Enabling Efficient and Effective AIoT via Decentralized Hierarchical Asynchronous Federated Learning",  in Proc.  MLSys 2023 Workshop on Resource-Constrained Learning in Wireless Networks, 2023.
   - Xinliang Wei, Lei Fan, Yuanxiong Guo, Yanming Gong, Zhu Han, Yu Wang， “Quantum Assisted Scheduling Algorithm for Federated Learning in Distributed Networks”， In Proceedings of 32nd IEEE International Conference on Computer Communications and Networks (ICCCN 2023), Honolulu, Hawaii, July 2023.
   - Jiyao Liu, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang， “Group-based Hierarchical Federated Learning: Convergence, Group Formation, and Sampling”， In Proceedings of 52nd International Conference on Parallel Processing (ICPP 2023), Salt Lake City, Utah, August 2023.
   - Xueyu Hou, Yongjie Guan, Tao Han, “NeuLens: Spatial-based Dynamic Acceleration of Convolutional Neural Networks on Edge”， the 28th Annual International Conference On Mobile Computing And Networking (ACM MobiCom), 2022.
