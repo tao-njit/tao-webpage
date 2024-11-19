@@ -55,7 +55,6 @@ The research objective of this project is to design, analyze, and evaluate AirEd
 - Jiyao Liu
 - Xuanzhang Liu
 
-
 #### Project Outcomes:
 - Publications:
   - X. Hou, Y. Guan, N. Choi and T. Han, "BPS: Batching, Pipelining, Surgeon of Continuous Deep Inference on Collaborative Edge Intelligence," in IEEE Transactions on Cloud Computing, vol. 12, no. 3, pp. 830-843, July-Sept. 2024, doi: 10.1109/TCC.2024.3399616.
