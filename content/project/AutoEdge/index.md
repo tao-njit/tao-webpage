@@ -46,7 +46,9 @@ This CAREER project aims to develop deep reinforcement learning (DRL) methods an
 - Tao Han, Ph.D. 
 
 #### Grduate Students:
-- Xueyu Hou
+- Mingrui Yin
+- Wenrui Zhang
+- Xueyu Hou (Graudated in Aug. 2024, joined the ECE department of the University of Maine as a tenure-track assistant professor)
 - Yang Deng (Graduated in Dec. 2023, joined Nokia Bell Labs as a research scientist)
 
 #### Undergrduate Students:
@@ -57,6 +59,10 @@ This CAREER project aims to develop deep reinforcement learning (DRL) methods an
 
 #### Project Outcomes:
 - Publications:
+  - Mingrui Yin, Yang Deng, Ahan Kak, Nakjung Choi and Tao Han, "PSASlicing: Perpetual SLA-Aware Reinforcement Learning for O-RAN Slice Management," GLOBECOM 2024 - 2024 IEEE Global Communications Conference, Cape Town, South Africa, 2024, pp. 4534-4539, doi: 10.1109/GLOBECOM52923.2024.10901152.
+  - N. Heydarishahreza, T. Han and N. Ansari, "Spectrum Sharing and Interference Management for 6G LEO Satellite-Terrestrial Network Integration," in IEEE Communications Surveys & Tutorials, doi: 10.1109/COMST.2024.3507019.
+  - Changshi Zhou, Weiqi Liu, Tao Han and Nirwan Ansari, "Deploying On-Device AIGC Inference Services in 6G via Optimal MEC-Device Offloading," in IEEE Networking Letters, vol. 6, no. 4, pp. 232-236, Dec. 2024, doi: 10.1109/LNET.2024.3490954.
+  - Xueyu Hou, Yongjie Guan, Tao Han, Cong Wang, "Towards real-time embodied AI agent: a bionic visual encoding framework for mobile robotics," International Journal of Intelligent Robotics and Applications, Appl 8, 1038–1056 (2024). https://doi.org/10.1007/s41315-024-00363-w  
   - Yuru Zhang, Yongjie Xue, Qiang Liu, Nakjung Choi, Tao Han, "RoNet: Toward Robust Neural Assisted Mobile Network Configuration", IEEE International Conference on Communications (ICC), 2023. 
   - Xueyu Hou, Yongjie Guan, Tao Han, "Dystri: A Dynamic Inference based Distributed DNN Service Framework on Edge", International Conference on Parallel Processing (ICPP 23), 2023. 
   - Yongjie Guan, Xueyu Hou, Nan Wu, Bo Han, Tao Han, "MetaStream: Live Volumetric Content Capture, Creation, Delivery, and Rendering in Real Time", The 29th Annual International Conference On Mobile Computing And Networking (MobiCom 23), 2023.
@@ -75,6 +81,7 @@ This CAREER project aims to develop deep reinforcement learning (DRL) methods an
   - [Atlas](https://github.com/int-unl/atlas)
 
 #### Project Outreach
+  - The PI has delivered a research talk on machien leanring and edge computing in 6G networks in IEEE 6G Summit at Singapore. 
   - The PI has delivered a research talk on machine learning for network slicing at the computer science department of the Fairleigh Dickinson University. 
   - The PI has delivered a research talk on machine learning for network slicing at the electrical and computer engineering department of the Stevens Institute of Technology. 
   - The PI has presented the research outcome to high school students at High-Tech High Shool of New Jersey. 
