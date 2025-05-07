@@ -48,7 +48,7 @@ This CAREER project aims to develop deep reinforcement learning (DRL) methods an
 #### Grduate Students:
 - Mingrui Yin
 - Wenrui Zhang
-- Xueyu Hou (Graudated in Aug. 2024, joined the ECE department of the University of Maine as a tenure-track assistant professor)
+- Xueyu Hou (Graudated in May 2024, joined the ECE department of the University of Maine as a tenure-track assistant professor)
 - Yang Deng (Graduated in Dec. 2023, joined Nokia Bell Labs as a research scientist)
 
 #### Undergrduate Students:
