@@ -54,40 +54,47 @@ The research objective of this project is to design, analyze, and evaluate AirEd
 - Farnoosh Koleini 
 - Jiyao Liu
 - Xuanzhang Liu
+- Ekkasit Pinyoanuntapong
+- Haoyu Xie
+- Cheng Guo
+- Sam Xu
+- Niwant Salunke
+- Issam Alzouby
+- Pallavi Bichpuriya
 
 #### Project Outcomes:
 - Publications:
-  - X. Hou, Y. Guan, N. Choi and T. Han, "BPS: Batching, Pipelining, Surgeon of Continuous Deep Inference on Collaborative Edge Intelligence," in IEEE Transactions on Cloud Computing, vol. 12, no. 3, pp. 830-843, July-Sept. 2024, doi: 10.1109/TCC.2024.3399616.
+  - Haoyu Xie, Shengkai Xu, Cheng Guo, Muhammad Usama Saleem, Wenhan Wu, Chen Chen, Ahmed Helmy, Pu Wang, Hongfei Xue, “Monocular Models are Strong Learners for Multi-View Human Mesh Recovery”, submitted to ECCV 2026, Mar. 2026.
+  - Xuanzhang Liu, Jiyao Liu, Xinliang Wei, Yu Wang, Incentive mechanism design in blockchain-based hierarchical federated learning over edge clouds, Computer Networks, Volume 277, article no. 112039, March 2026. https://doi.org/10.1016/j.comnet.2026.112039
+  - Xinliang Wei, Jiyao Liu, Lei Fan, Yuanxiong Guo, Yanming Gong, Zhu Han, Yu Wang, Quantum-Assisted Resource Management for Data Access in Space-Air-Terrestrial Integrated Networks, IEEE Transactions on Wireless Communications (TWC), Volume: 25, Pages: 5127-5140, 2026. https://doi.org/10.1109/TWC.2025.3616188
+  - Pinyarash Pinyoanuntapong, Shu-ping Yeh, Minwoo Lee, and Pu Wang, “Safe Deep Reinforcement Learning for Adaptive Multi-Connectivity Traffic Management”, submitted to Computer Networks Journal, under review, Jan. 2026.
+  - X. Hou, Y. Guan, and T. Han, “ViEdge: Video Analytics on Distributed Edge,” in ACM Transactions on Internet of Things, Volume 6, Issue 3, Article No.: 16, Pages 1 - 23.
+  - Xuanzhang Liu, Jiyao Li, Xinliang Wei, Yu Wang, Incentive Mechanism Design for Semi-Asynchronous Blockchain-based Federated Edge Learning, ITU Journal on Future and Evolving Technologies, Volume: 6, Issue: 2, Pages: 119-131, June 2025. https://doi.org/10.52953/XFJH6676
+  - Yu Zhang, Yanmin Gong, Lei Fan, Yu Wang, Zhu Han, Yuanxiong Guo, Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks, IEEE Transactions on Mobile Computing (TMC), Volume: 24, Issue: 5, Pages: 3878 - 3889, May 2025. https://doi.org/10.1109/TMC.2024.3519060
+  - Yu Zhang, Yanmin Gong, Lei Fan, Yu Wang, Zhu Han, Yuanxiong Guo, Quantum-Assisted Joint Virtual Network Function Deployment and Maximum Flow Routing for Space Information Networks, IEEE Transactions on Mobile Computing (TMC), Volume: 24, Issue: 2, Pages: 830 - 844, February 2025. https://doi.org/10.1109/TMC.2024.3466857
+  - X. Hou, Y. Guan, N. Choi and T. Han, “BPS: Batching, Pipelining, Surgeon of Continuous Deep Inference on Collaborative Edge Intelligence,” in IEEE Transactions on Cloud Computing, vol. 12, no. 3, pp. 830-843, July-Sept. 2024, doi: 10.1109/TCC.2024.3399616.
   - Guangyu Sun, Umar Khalid, Matias Mendieta, Pu Wang, Chen Chen, “Exploring Parameter-Efficient Fine-Tuning to Enable Foundation Models in Federated Learning,” IEEE International Conference on Big Data (BigData), 2024.
   - Jiyao Liu, Xuanzhang Liu, Xinliang Wei, Hongchang Gao, Yu Wang, Group Formation and Sampling in Group-based Hierarchical Federated Learning, IEEE Transactions on Cloud Computing (TCC), to appear. 10.1109/TCC.2024.3482865.
   - Xinliang Wei, Kejiang Ye, Xinghua Shi, Cheng-Zhong Xu, Yu Wang, Joint Participant and Learning Topology Selection for Federated Learning in Edge Clouds, IEEE Transactions on Parallel and Distributed Systems, Volume: 35, Issue: 8, Pages: 1456 - 1468, August 2024. 10.1109/TPDS.2024.3413751.
-  - Xinliang Wei, Jiyao Liu, Yu Wang, Joint Participant Selection and Learning Optimization for Federated Learning of Multiple Models in Edge Cloud, Journal of Computer Science and Technology, Volume: 38, Issue: 4, Pages: 754-772, July 2023.10.1007/s11390-023-3074-4.
   - Xuanzhang Liu, Jiyao Liu, Xinliang Wei, Yu Wang, Incentive Mechanism Design in Semi-Asynchronous Blockchain-based Federated Learning, 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), Washington DC, October, 2024.
+  - Xinliang Wei, Jiyao Liu, Yu Wang, Joint Participant Selection and Learning Optimization for Federated Learning of Multiple Models in Edge Cloud, Journal of Computer Science and Technology, Volume: 38, Issue: 4, Pages: 754-772, July 2023. 10.1007/s11390-023-3074-4.
   - Xueyu Hou, Yongjie Guan, Tao Han, “Dystri: A Dynamic Inference based Distributed DNN Service Framework on Edge”, In Proceedings of the 52nd International Conference on Parallel Processing (ACM ICPP), 2023.
-  - W. Huff, P. Pinyoanuntapong, R. Balakrishnan, H. Feng, M. Lee, P. Wang, and C. Chen, "DHA-FL: Enabling Efficient and Effective AIoT via Decentralized Hierarchical Asynchronous Federated Learning",  in Proc.  MLSys 2023 Workshop on Resource-Constrained Learning in Wireless Networks, 2023.
+  - W. Huff, P. Pinyoanuntapong, R. Balakrishnan, H. Feng, M. Lee, P. Wang, and C. Chen, “DHA-FL: Enabling Efficient and Effective AIoT via Decentralized Hierarchical Asynchronous Federated Learning”,  in Proc.  MLSys 2023 Workshop on Resource-Constrained Learning in Wireless Networks, 2023.
   - Xinliang Wei, Lei Fan, Yuanxiong Guo, Yanming Gong, Zhu Han, Yu Wang， “Quantum Assisted Scheduling Algorithm for Federated Learning in Distributed Networks”， In Proceedings of 32nd IEEE International Conference on Computer Communications and Networks (ICCCN 2023), Honolulu, Hawaii, July 2023.
   - Jiyao Liu, Xinliang Wei, Xuanzhang Liu, Hongchang Gao, Yu Wang， “Group-based Hierarchical Federated Learning: Convergence, Group Formation, and Sampling”， In Proceedings of 52nd International Conference on Parallel Processing (ICPP 2023), Salt Lake City, Utah, August 2023.
   - Xueyu Hou, Yongjie Guan, Tao Han, “NeuLens: Spatial-based Dynamic Acceleration of Convolutional Neural Networks on Edge”， the 28th Annual International Conference On Mobile Computing And Networking (ACM MobiCom), 2022.
   - Yongjie Guan, Xueyu Hou, Nan Wu, Bo Han, Tao Han， “DeepMix: Mobility-aware, Lightweight, and Hybrid 3D Object Detection for Headsets”， the 20th Annual International Conference on Mobile Systems, Applications and Services (ACM MobiSys 22), 2022.
-  - Pinyarash Pinyoanuntapong, Prabhu Janakaraj, Ravikumar Balakrishnan,, Minwoo Lee, Chen Chen, and Pu Wang, “EdgeML: Towards Network-Accelerated Federated Learning over Wireless Edge”,Computer Networks Journal,  Volume 219, Dec. 2022 . 
-  - Xueyu Hou, Yongjie Guan, Tao Han, “DistrEdge: Speeding up Convolutional Neural Network Inference on Distributed Edge Devices”, IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2022. 
+  - Pinyarash Pinyoanuntapong, Prabhu Janakaraj, Ravikumar Balakrishnan,, Minwoo Lee, Chen Chen, and Pu Wang, “EdgeML: Towards Network-Accelerated Federated Learning over Wireless Edge”,Computer Networks Journal,  Volume 219, Dec. 2022 .
+  - Xueyu Hou, Yongjie Guan, Tao Han, “DistrEdge: Speeding up Convolutional Neural Network Inference on Distributed Edge Devices”, IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2022.
   - Pinyarash Pinyoanuntapong, Wesley Houston Huff, Minwoo Lee, Chen Chen, and Pu Wang, “Towards Scalable and Robust AIoT via Decentralized Federated Learning”, IEEE Internet of Things Magazine, 2022
   - Xinliang Wei, Jiyao Liu, Yu Wang, “Joint Participant Selection and Learning Scheduling for Multi-Model Federated Edge Learning”, 19th IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2022), Denver, Colorado, October 2022.
   - Xinliang Wei, Jiyao Liu, Xinghua Shi, Yu Wang, “Participant Selection for Hierarchical Federated Learning in Edge Clouds”, 16th IEEE International Conference on Networking, Architecture, and Storage (NAS 2022), Philadelphia, PA, October 2022.
-  - Pinyarash Pinyoanuntapong, Prabhu Janakaraj, Ravikumar Balakrishnan, Minwoo Lee, Chen Chen, Pu Wang, "EdgeML: Towards network-accelerated federated learning over wireless edge", Computer Networks, Volume 219, 2022,
+  - Pinyarash Pinyoanuntapong, Prabhu Janakaraj, Ravikumar Balakrishnan, Minwoo Lee, Chen Chen, Pu Wang, “EdgeML: Towards network-accelerated federated learning over wireless edge”, Computer Networks, Volume 219, 2022,
   - Xinliang Wei, A B M Mohaimenur Rahman, Yu Wang, “Data Placement Strategies for Data-Intensive Computing over Edge Clouds”, 40th IEEE International Performance Computing and Communications Conference (IPCCC 2021), Virtual conference, October 2021.
   - Xinliang Wei, Yu Wang, “Joint Resource Placement and Task Dispatching in Mobile Edge Computing across Timescales”, IEEE/ACM International Symposium on Quality of Service (IWQoS 2021), Virtual conference, June 2021.
   - Xinliang Wei, A B M Mohaimenur Rahman, Dazhao Cheng, Yu Wang, “Joint Optimization across Timescales: Resource Placement and Task Dispatching in Edge Clouds”, in IEEE Transactions on Cloud Computing, September 2021.
   - Xinliang Wei, Yu Wang, “Popularity-based Data Placement with Load Balancing in Edge Computing”, in IEEE Transactions on Cloud Computing, July 2021.
   - Yang Deng, Tao Han, and Nirwan Ansari, “FedVision: Federated Video Analytics with Edge Computing” in IEEE Open Journal of the Computer Society (OJCS), 2020.
-  - X. Hou, Y. Guan, and T. Han, “ViEdge: Video Analytics on Distributed Edge,” in ACM Transactions on Internet of Things, Volume 6, Issue 3, Article No.: 16, Pages 1 - 23.
-  - Pinyarash Pinyoanuntapong, Shu-ping Yeh, Minwoo Lee, and Pu Wang, “Safe Deep Reinforcement Learning for Adaptive Multi-Connectivity Traffic Management”, submitted to Computer Networks Journal, under review, Jan. 2026.
-  - Haoyu Xie, Shengkai Xu, Cheng Guo, Muhammad Usama Saleem, Wenhan Wu, Chen Chen, Ahmed Helmy, Pu Wang, Hongfei Xue, “Monocular Models are Strong Learners for Multi-View Human Mesh Recovery”, submitted to ECCV 2026, Mar. 2026.
-  - Xuanzhang Liu, Jiyao Li, Xinliang Wei, Yu Wang, Incentive Mechanism Design for Semi-Asynchronous Blockchain-based Federated Edge Learning, ITU Journal on Future and Evolving Technologies, Volume: 6, Issue: 2, Pages: 119-131, June 2025. https://doi.org/10.52953/XFJH6676
-  - Xuanzhang Liu, Jiyao Liu, Xinliang Wei, Yu Wang, Incentive mechanism design in blockchain-based hierarchical federated learning over edge clouds, Computer Networks, Volume 277, article no. 112039, March 2026. https://doi.org/10.1016/j.comnet.2026.112039
-  - Xinliang Wei, Jiyao Liu, Lei Fan, Yuanxiong Guo, Yanming Gong, Zhu Han, Yu Wang, Quantum-Assisted Resource Management for Data Access in Space-Air-Terrestrial Integrated Networks, IEEE Transactions on Wireless Communications (TWC), Volume: 25, Pages: 5127-5140, 2026. https://doi.org/10.1109/TWC.2025.3616188
-  - Yu Zhang, Yanmin Gong, Lei Fan, Yu Wang, Zhu Han, Yuanxiong Guo, Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks, IEEE Transactions on Mobile Computing (TMC), Volume: 24, Issue: 5, Pages: 3878 - 3889, May 2025. https://doi.org/10.1109/TMC.2024.3519060
-  - Yu Zhang, Yanmin Gong, Lei Fan, Yu Wang, Zhu Han, Yuanxiong Guo, Quantum-Assisted Joint Virtual Network Function Deployment and Maximum Flow Routing for Space Information Networks, IEEE Transactions on Mobile Computing (TMC), Volume: 24, Issue: 2, Pages: 830 - 844, February 2025. https://doi.org/10.1109/TMC.2024.3466857
   - Qiang Liu, Tao Han, Ephraim Moges, “EdgeSlice: Slicing Wireless Edge Computing Network with Decentralized Deep Reinforcement Learning”， in IEEE International Conference on Distributed Computing Systems (ICDCS), 2020. (acceptance rate: 18%)
 	
  
